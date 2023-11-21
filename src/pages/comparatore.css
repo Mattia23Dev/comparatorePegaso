@@ -1,0 +1,325 @@
+.comparatore{
+    margin-bottom: 100px;
+}
+.comparatore-top{
+    background-color: #F47140;
+    width: 100%;
+    height: 10.5vh;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 10rem;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+.comparatore-top > div:first-of-type{
+    display: flex;
+    flex-direction: row;
+    width: 50%;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    gap: 0.5rem;
+}
+.comparatore-top2{
+    background-color: #004B5A;
+    width: 100%;
+    height: 7vh;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+.comparatore-top > div:last-of-type{
+    width: 50%;
+}
+.comparatore-top > div:first-of-type > *{
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+}
+.comparatore-top > div:first-of-type > *:first-of-type{
+    font-size: 22px;
+    font-weight: 450;
+}
+.comparatore-top > div:last-of-type > img {
+    width: 50%;
+}
+.h1-comp{
+    text-align: center;
+    color: #00414f;
+    font-size: 24px;
+    margin-top: 40px;
+    font-family: 'Poppins', sans-serif;
+}
+.h2-comp{
+    text-align: center;
+    color: #00414f;
+    font-size: 18px;
+    margin-top: 10px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+}
+.comparatore-domande{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 0.5rem;
+    width: 50%;
+    margin: 0 auto;    
+    margin-top: 50px;
+    position: relative;
+}
+.comparatore-domande > h3 {
+    font-weight: 400;
+    font-size: 16px;
+    margin-top: -5px;
+}
+.domanda-radio{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 53%;
+    margin: 0px 0 20px 0;
+}
+.domanda-radio > .radio-options{
+    min-width: 320px !important;
+    width: 90%;
+    margin-left: 30px;
+    margin-right: 0px;
+    display: flex;
+    justify-content: center;
+}
+.radio-options > div {
+    width: 160px !important;
+    height: 100%;
+    border: 1px solid rgba(0, 0, 0, 0.315);
+    border-radius: 10px;
+    margin: 0 2px;
+    cursor: pointer;
+    padding: 10px 20px;
+}
+.domanda > label{
+    width: 90%;
+    color: black;
+    font-weight: 500;
+    text-align: start;
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    color: #737A7C;
+    margin-bottom: 10px;
+}
+.domanda-radio > label{
+    width: 90%;
+    max-width: 320px;
+}
+.domanda > select{
+    padding: 12px 20px;
+    border-radius: 7px;
+    font-size: 16px;
+    border: 1px solid rgba(0, 0, 0, 0.315);
+    margin: 0 30px;
+    min-width: 320px;
+    width: 90%;
+    max-width: 330px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+}
+.domanda-input{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 50%;
+}
+.domanda-input > input{
+    width: 90%;
+    max-width: 320px;
+    min-width: 320px;
+    font-size: 16px;
+    border-radius: 7px;
+    padding: 14px 5px;
+    border: 1px solid rgba(0, 0, 0, 0.315);
+    font-family: 'Poppins', sans-serif;
+}
+.domanda{
+    margin: 10px 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.domanda-input > label{
+    width: 90%;
+    max-width: 320px;
+    min-width: 320px;
+}
+.domanda-checkbox{
+    width: 50%;
+    max-width: 350px;
+    text-align: center;
+}
+.domanda-checkbox > label {
+    font-family: 'Poppins', sans-serif;
+    font-size: 12px;
+    color: #0d222d80;
+}
+.filled{
+    border: 1px solid rgb(0, 176, 0) !important;
+    box-shadow: 0 0 10px 1px rgba(0, 255, 0, 0.164);
+}
+.button-prosegui{
+    padding: 14px 48px;
+    font-size: 16px;
+    border-radius: 7px;
+    border: none;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    gap: 10px;
+    background-color: #00414f;
+    color: white;
+    margin: 0 auto;
+    margin-top: 20px;
+    cursor: pointer;
+    font-family: 'Poppins', sans-serif;
+}
+.comparatore-bottom{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 80px;
+}
+.comparatore-bottom > h2 {
+    color: #00414f;
+    font-weight: 450;
+}
+.comparatore-bottom > p {
+    font-size: 14px;
+    color: #737A7C;
+    line-height: 27px;
+}
+.compmob{
+    display: none;
+}
+
+@media screen and (max-width: 600px){
+    .comparatore-top{
+        background-color: #F47140;
+        width: 100%;
+        height: 10.5vh;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        gap: 10rem;
+    }
+    .comparatore-top > div:first-of-type{
+        display: flex;
+        flex-direction: row;
+        width: 100%;
+        align-items: center;
+        justify-content: center;
+        color: white;
+        gap: 0.5rem;
+    }
+    .h1-comp{
+        text-align: center;
+        color: #00414f;
+        font-size: 20px;
+        margin-top: 40px;
+        font-family: 'Poppins', sans-serif;
+        padding: 0 10px;
+    }
+    .h2-comp{
+        text-align: center;
+        color: #00414f;
+        font-size: 16px;
+        margin-top: 10px;
+        font-family: 'Poppins', sans-serif;
+        font-weight: 400;
+        padding: 0 10px;
+    }
+    .comparatore-top > div:last-of-type{
+        display: none;
+    }
+    .comparatore-top > div:first-of-type > *{
+        font-size: 18px;
+        font-family: 'Poppins', sans-serif;
+    }
+    .comparatore-top > div:first-of-type > *:first-of-type{
+        font-size: 22px;
+        font-weight: 450;
+    }
+    .compmob{
+        margin: 0 auto;
+        margin-top: 40px;
+        display: block;
+        width: 90%;
+    }
+    .comparatore-domande{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 0.5rem;
+        width: 100%;
+        margin: 0 auto;    
+        margin-top: 50px;
+        position: relative;
+    }
+    .domanda-input{
+        width: 90%;
+    }
+    .domanda-checkbox{
+        width: 90%;
+    }
+    .comparatore-bottom{
+        width: 85%;
+        margin-top: 60px;
+    }
+}
+
+@media screen and (min-width: 601px) and (max-width: 950px)  {
+    .comparatore-top{
+        gap: 6rem;
+    }
+    .comparatore-top > div:last-of-type > img {
+        width: 90%;
+    }
+    .domanda-input{
+        width: 90%;
+    }
+    .domanda-checkbox{
+        width: 90%;
+    }
+    .comparatore-bottom{
+        width: 70%;
+        margin-top: 60px;
+    }
+    .h1-comp{
+        text-align: center;
+        color: #00414f;
+        font-size: 24px;
+        margin-top: 40px;
+        font-family: 'Poppins', sans-serif;
+        padding: 0 10px;
+    }
+    .h2-comp{
+        text-align: center;
+        color: #00414f;
+        font-size: 20px;
+        margin-top: 10px;
+        font-family: 'Poppins', sans-serif;
+        font-weight: 400;
+        padding: 0 10px;
+    }
+}

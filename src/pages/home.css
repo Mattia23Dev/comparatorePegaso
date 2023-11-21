@@ -1,0 +1,34 @@
+.home-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.home-container > p {
+    margin: 0 auto;
+    text-align: center;
+    padding: 0 20px;
+    width: 60%;
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif;
+}
+.cta-home{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    margin: 50px 0 60px 0;
+}
+.cta-item{
+    width: 30%;
+    display: flex;
+    justify-content: center;
+}
+.cta-item > a {
+    text-decoration: none;
+    background-color: #00414f;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+}

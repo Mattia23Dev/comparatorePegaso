@@ -1,0 +1,4328 @@
+[
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Architettura Moda e Design",
+    "Corsi di laurea + (non lo so) ": "Design del Prodotto e della Moda",
+    "Costo ": "Da € 1600 a € 4000",
+    "Ateneo": "Mercatorum"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Architettura Moda e Design",
+    "Corsi di laurea + (non lo so) ": "Moda e Design Industriale (Design)",
+    "Costo ": "Da € 2200 a € 2500",
+    "Ateneo": "San Raffaele"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Architettura Moda e Design",
+    "Corsi di laurea + (non lo so) ": "Moda e Design Industriale (Moda)",
+    "Costo ": "Da € 2200 a € 2500",
+    "Ateneo": "San Raffaele"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Architettura Moda e Design",
+    "Corsi di laurea + (non lo so) ": "Design e Discipline della Moda",
+    "Costo ": "Da € 2600 a € 3900",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Beni Culturali",
+    "Corsi di laurea + (non lo so) ": "Beni Culturali (Operatore ed esperto in Patrimoni Culturali e Memoria Digitali)",
+    "Costo ": "Da € 1900 a € 2000",
+    "Ateneo": "Uninettuno"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Beni Culturali",
+    "Corsi di laurea + (non lo so) ": "Beni Culturali (Operatore ed esperto in Patrimoni e Paesaggi Culturali: linguaggi e codici della mediazione)",
+    "Costo ": "Da € 1900 a € 2000",
+    "Ateneo": "Uninettuno"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Criminologia",
+    "Corsi di laurea + (non lo so) ": "Servizi Giuridici (Criminologia)",
+    "Costo ": "Da € 2600 a € 3900",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Criminologia",
+    "Corsi di laurea + (non lo so) ": "Servizi Giuridici (Scienze Penitenziarie)",
+    "Costo ": "Da € 2600 a € 3900",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Criminologia",
+    "Corsi di laurea + (non lo so) ": "Scienze dei Servizi Giuridici (Scienze Criminologiche Forensi e Investigative)",
+    "Costo ": "Da € 1500 a € 2760",
+    "Ateneo": "Unimarconi"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Criminologia",
+    "Corsi di laurea + (non lo so) ": "Scienze dell’Amministrazione (Organizzazione, Sicurezza e Investigazioni)",
+    "Costo ": "Da € 1600 a € 2100",
+    "Ateneo": "Unitelma"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Digital Marketing",
+    "Corsi di laurea + (non lo so) ": "Scienze della Comunicazione (Digital Marketing)",
+    "Costo ": "Da € 5900 a € 5900",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Digital Marketing",
+    "Corsi di laurea + (non lo so) ": "Scienze della Comunicazione (Influencer)",
+    "Costo ": "Da € 2600 a € 5900",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Digital Marketing",
+    "Corsi di laurea + (non lo so) ": "Scienze della Comunicazione e Media Digitali",
+    "Costo ": "Da € 1500 a € 2760",
+    "Ateneo": "Unimarconi"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Digital Marketing",
+    "Corsi di laurea + (non lo so) ": "Comunicazione Digitale e Social Media",
+    "Costo ": "Da € 4000 a € 5000",
+    "Ateneo": "Unicusano"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Diritto ed Economia delle Imprese",
+    "Costo ": "Da € 2500 a € 2500",
+    "Ateneo": "Unifortunato"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Economia Aziendale",
+    "Costo ": "Da € 1600 a € 3000",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Economia D'impresa digitale e sostenibile",
+    "Costo ": "Da € 1600 a € 3000",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Gestione d’Impresa (statutario)",
+    "Costo ": "Da € 1600 a € 3000",
+    "Ateneo": "Mercatorum"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Gestione d’Impresa (Economia digitale)",
+    "Costo ": "Da € 1600 a € 3000",
+    "Ateneo": "Mercatorum"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Gestione d’Impresa(Marketing e vendite)",
+    "Costo ": "Da € 1600 a € 3000",
+    "Ateneo": "Mercatorum"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Gestione d’Impresa (Management sportivo)",
+    "Costo ": "Da € 1600 a € 3000",
+    "Ateneo": "Mercatorum"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Gestione d’Impresa (Immobiliare)",
+    "Costo ": "Da € 1600 a € 3000",
+    "Ateneo": "Mercatorum"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Economia (Psicoeconomia)",
+    "Costo ": "Da € 2600 a € 3900",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Economia (Scienze Bancarie e Assicurative)",
+    "Costo ": "Da € 2600 a € 3900",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Economia (start-up d'impresa e modelli di business)",
+    "Costo ": "Da € 2600 a € 3900",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Economia e Commercio",
+    "Costo ": "Da € 2600 a € 3900",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Economia Aziendale e Management",
+    "Costo ": "Da € 1500 a € 2760",
+    "Ateneo": "Unimarconi"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Economia Aziendale e Management (Amministrazione e Finanza)",
+    "Costo ": "Da € 1500 a € 2760",
+    "Ateneo": "Unimarconi"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Economia Aziendale e Management (Consulente del Lavoro)",
+    "Costo ": "Da € 1500 a € 2760",
+    "Ateneo": "Unimarconi"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Economia Aziendale e Management (Management dello Sport e degli Eventi Sportivi)",
+    "Costo ": "Da € 1500 a € 2760",
+    "Ateneo": "Unimarconi"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Scienze Economiche (Aziendale) ",
+    "Costo ": "Da € 1500 a € 2760",
+    "Ateneo": "Unimarconi"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Scienze Economiche (Generale) ",
+    "Costo ": "Da € 1500 a € 2760",
+    "Ateneo": "Unimarconi"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Economia delle Aziende Turistiche",
+    "Costo ": "Da € 1600 a € 2100",
+    "Ateneo": "Unitelma"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Management per l’innovazione digitale e la sostenibilità",
+    "Costo ": "Da € 1600 a € 2100",
+    "Ateneo": "Unitelma"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Scienze dell’Economia Aziendale",
+    "Costo ": "Da € 1600 a € 2100",
+    "Ateneo": "Unitelma"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Economia Aziendale e Management",
+    "Costo ": "Da € 3000 a € 3600",
+    "Ateneo": "Unicusano"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Economia e Gestione delle Imprese (Business Management)",
+    "Costo ": "Da € 1900 a € 2000",
+    "Ateneo": "Uninettuno"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Economia e Gestione delle Imprese (Cultura, Turismo e Territorio)",
+    "Costo ": "Da € 1900 a € 2000",
+    "Ateneo": "Uninettuno"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Economia e gestione delle imprese (Economia e Governo d'Impresa)",
+    "Costo ": "Da € 1900 a € 2000",
+    "Ateneo": "Uninettuno"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Economia e Gestione delle Imprese (Financial Management)",
+    "Costo ": "Da € 1900 a € 2000",
+    "Ateneo": "Uninettuno"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Economia, Management e Mercati Internazionali",
+    "Costo ": "Da € 2500 a € 2500",
+    "Ateneo": "Iul"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Filologia",
+    "Corsi di laurea + (non lo so) ": "Lingua, Letteratura e Cultura Italiana (Filologia)",
+    "Costo ": "Da € 2600 a € 3900",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Filologia",
+    "Corsi di laurea + (non lo so) ": "Filologia e Letterature Moderne",
+    "Costo ": "Da € 1500 a € 2760",
+    "Ateneo": "Unimarconi"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Filosofia",
+    "Corsi di laurea + (non lo so) ": "Filosofia ed Etica",
+    "Costo ": "Da € 1600 a € 3000",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Filosofia",
+    "Corsi di laurea + (non lo so) ": "Filosofia Applicata",
+    "Costo ": "Da € 4000 a € 4100",
+    "Ateneo": "Unicusano"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Giurisprudenza",
+    "Corsi di laurea + (non lo so) ": "Scienze Giuridiche",
+    "Costo ": "Da € 1600 a € 3000",
+    "Ateneo": "Mercatorum"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Giurisprudenza",
+    "Corsi di laurea + (non lo so) ": "Scienze Giuridiche (Scienze giuridiche per la criminologia, l’investigazione e la sicurezza)",
+    "Costo ": "Da € 1600 a € 3000",
+    "Ateneo": "Mercatorum"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Giurisprudenza",
+    "Corsi di laurea + (non lo so) ": "Scienze Giuridiche (Sicurezza)",
+    "Costo ": "Da € 1600 a € 3000",
+    "Ateneo": "Mercatorum"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Giurisprudenza",
+    "Corsi di laurea + (non lo so) ": "Servizi Giuridici (Consulenti del Lavoro)",
+    "Costo ": "Da € 2600 a € 3900",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Giurisprudenza",
+    "Corsi di laurea + (non lo so) ": "Servizi Giuridici per l'Impresa",
+    "Costo ": "Da € 2600 a € 3900",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Giurisprudenza",
+    "Corsi di laurea + (non lo so) ": "Servizi Giuridici (Criminologia)",
+    "Costo ": "Da € 2600 a € 3900",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Giurisprudenza",
+    "Corsi di laurea + (non lo so) ": "Servizi Giuridici (Scienze Penitenziarie)",
+    "Costo ": "Da € 2600 a € 3900",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Giurisprudenza",
+    "Corsi di laurea + (non lo so) ": "Scienze dei Servizi Giuridici",
+    "Costo ": "Da € 1500 a € 2760",
+    "Ateneo": "Unimarconi"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Giurisprudenza",
+    "Corsi di laurea + (non lo so) ": "Scienze dei Servizi Giuridici (Consulente del Lavoro)",
+    "Costo ": "Da € 1500 a € 2760",
+    "Ateneo": "Unimarconi"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Giurisprudenza",
+    "Corsi di laurea + (non lo so) ": "Scienze dei Servizi Giuridici (Scienze criminologiche Forensi e Investigative)",
+    "Costo ": "Da € 1500 a € 2760",
+    "Ateneo": "Unimarconi"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Giurisprudenza",
+    "Corsi di laurea + (non lo so) ": "Scienze dei Servizi Giuridici (Esperto Giuridico Immobiliare)",
+    "Costo ": "Da € 1500 a € 2760",
+    "Ateneo": "Unimarconi"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Giurisprudenza",
+    "Corsi di laurea + (non lo so) ": "Diritto dell’Impresa, del Lavoro e delle Nuove Tecnologie (Diritto della Sicurezza sul Lavoro)",
+    "Costo ": "Da € 1900 a € 2000",
+    "Ateneo": "Uninettuno"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Giurisprudenza",
+    "Corsi di laurea + (non lo so) ": "Diritto dell’Impresa, del Lavoro e delle Nuove Tecnologie (Diritto della Società Digitale)",
+    "Costo ": "Da € 1900 a € 2000",
+    "Ateneo": "Uninettuno"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Giurisprudenza",
+    "Corsi di laurea + (non lo so) ": "Diritto dell’impresa, del lavoro e delle nuove tecnologie (Operatore Giuridico d'Impresa)",
+    "Costo ": "Da € 1900 a € 2000",
+    "Ateneo": "Uninettuno"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Ingegneria Civile",
+    "Corsi di laurea + (non lo so) ": "Ingegneria Civile",
+    "Costo ": "Da € 1600 a € 3000",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Ingegneria Civile",
+    "Corsi di laurea + (non lo so) ": "Ingegneria Civile (Ambientale)",
+    "Costo ": "Da € 1600 a € 3001",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Ingegneria Civile",
+    "Corsi di laurea + (non lo so) ": "Ingegneria delle Infrastrutture per una Mobilità Sostenibile (infrastrutture)",
+    "Costo ": "Da € 1600 a € 3000",
+    "Ateneo": "Mercatorum"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Ingegneria Civile",
+    "Corsi di laurea + (non lo so) ": "Ingegneria delle Infrastrutture per una Mobilità Sostenibile (mobilità)",
+    "Costo ": "Da € 1600 a € 3001",
+    "Ateneo": "Mercatorum"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Ingegneria Civile",
+    "Corsi di laurea + (non lo so) ": "Ingegneria Civile (Civile e Ambientale)",
+    "Costo ": "Da € 2600 a € 3900",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Ingegneria Civile",
+    "Corsi di laurea + (non lo so) ": "Ingegneria Civile e Ambientale (Paesaggistico)",
+    "Costo ": "Da € 2600 a € 3900",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Ingegneria Civile",
+    "Corsi di laurea + (non lo so) ": "Ingegneria Civile",
+    "Costo ": "Da € 1500 a € 2760",
+    "Ateneo": "Unimarconi"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Ingegneria Civile",
+    "Corsi di laurea + (non lo so) ": "Ingegneria Civile (strutture)",
+    "Costo ": "Da € 3000 a € 3600",
+    "Ateneo": "Unicusano"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Ingegneria Civile",
+    "Corsi di laurea + (non lo so) ": "Ingegneria Civile (edilizia)",
+    "Costo ": "Da € 3000 a € 3600",
+    "Ateneo": "Unicusano"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Ingegneria Civile",
+    "Corsi di laurea + (non lo so) ": "Ingegneria Civile e Ambientale (Costruzioni, Estimo e Topografia)",
+    "Costo ": "Da € 1900 a € 2000",
+    "Ateneo": "Uninettuno"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Ingegneria Civile",
+    "Corsi di laurea + (non lo so) ": "Ingegneria Civile e Ambientale (Strutture e Infrastrutture)",
+    "Costo ": "Da € 1900 a € 2000",
+    "Ateneo": "Uninettuno"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Ingegneria Gestionale",
+    "Corsi di laurea + (non lo so) ": "Ingegneria Gestionale (statutario)",
+    "Costo ": "Da € 1600 a € 3000",
+    "Ateneo": "Mercatorum"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Ingegneria Gestionale",
+    "Corsi di laurea + (non lo so) ": "Ingegneria Gestionale (Economia circolare)",
+    "Costo ": "",
+    "Ateneo": "Mercatorum"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Ingegneria Gestionale",
+    "Corsi di laurea + (non lo so) ": "Ingegneria Gestionale (Economico)",
+    "Costo ": "Da € 1900 a € 2000",
+    "Ateneo": "Uninettuno"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Ingegneria Gestionale",
+    "Corsi di laurea + (non lo so) ": "Ingegneria Gestionale (Produzione)",
+    "Costo ": "Da € 1900 a € 2000",
+    "Ateneo": "Uninettuno"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Ingegneria Industriale",
+    "Corsi di laurea + (non lo so) ": "Ingegneria Industriale (Chimica)",
+    "Costo ": "Da € 2600 a € 3900",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Ingegneria Industriale",
+    "Corsi di laurea + (non lo so) ": "Ingegneria Industriale (Energetica)",
+    "Costo ": "Da € 2600 a € 3900",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Ingegneria Industriale",
+    "Corsi di laurea + (non lo so) ": "Ingegneria Industriale (Gestionale)",
+    "Costo ": "Da € 2600 a € 3900",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Ingegneria Industriale",
+    "Corsi di laurea + (non lo so) ": "Ingegneria Industriale (Veicoli Ibridi ed Elettrici)",
+    "Costo ": "Da € 2600 a € 3900",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Ingegneria Industriale",
+    "Corsi di laurea + (non lo so) ": "Ingegneria Industriale",
+    "Costo ": "Da € 1500 a € 2760",
+    "Ateneo": "Unimarconi"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Ingegneria Industriale",
+    "Corsi di laurea + (non lo so) ": "Ingegneria Industriale (Energetica e Nucleare)",
+    "Costo ": "Da € 1500 a € 2760",
+    "Ateneo": "Unimarconi"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Ingegneria Industriale",
+    "Corsi di laurea + (non lo so) ": "Ingegneria Industriale (Sicurezza)",
+    "Costo ": "Da € 1500 a € 2760",
+    "Ateneo": "Unimarconi"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Ingegneria Industriale",
+    "Corsi di laurea + (non lo so) ": "Ingegneria Industriale (agroindustriale)",
+    "Costo ": "Da € 3000 a € 3600",
+    "Ateneo": "Unicusano"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Ingegneria Industriale",
+    "Corsi di laurea + (non lo so) ": "Ingegneria Industriale (biomedico)",
+    "Costo ": "Da € 3000 a € 3600",
+    "Ateneo": "Unicusano"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Ingegneria Industriale",
+    "Corsi di laurea + (non lo so) ": "Ingegneria Industriale (gestionale) ",
+    "Costo ": "Da € 3000 a € 3600",
+    "Ateneo": "Unicusano"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Ingegneria Industriale",
+    "Corsi di laurea + (non lo so) ": "Ingegneria Industriale (elettronico)",
+    "Costo ": "Da € 3000 a € 3600",
+    "Ateneo": "Unicusano"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Ingegneria Industriale",
+    "Corsi di laurea + (non lo so) ": "Ingegneria Industriale (meccanico)",
+    "Costo ": "Da € 3000 a € 3600",
+    "Ateneo": "Unicusano"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Ingegneria Informatica",
+    "Corsi di laurea + (non lo so) ": "Ingegneria Informatica",
+    "Costo ": "Da € 3500 a € 3500",
+    "Ateneo": "Unifortunato"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Ingegneria Informatica",
+    "Corsi di laurea + (non lo so) ": "Informatica per le Aziende Digitali",
+    "Costo ": "Da € 1600 a € 3000",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Ingegneria Informatica",
+    "Corsi di laurea + (non lo so) ": "Ingegneria Informatica",
+    "Costo ": "Da € 1600 a € 3000",
+    "Ateneo": "Mercatorum"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Ingegneria Informatica",
+    "Corsi di laurea + (non lo so) ": "Statistica e Big Data",
+    "Costo ": "Da € 1600 a € 3000",
+    "Ateneo": "Mercatorum"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Ingegneria Informatica",
+    "Corsi di laurea + (non lo so) ": "Ingegneria Informatica e dell’Automazione (Database)",
+    "Costo ": "Da € 2600 a € 5900",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Ingegneria Informatica",
+    "Corsi di laurea + (non lo so) ": "Ingegneria Informatica e dell’Automazione (Droni)",
+    "Costo ": "Da € 5900 a € 5900",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Ingegneria Informatica",
+    "Corsi di laurea + (non lo so) ": "Ingegneria Informatica e dell’Automazione (Ingegneria Informatica e delle App)",
+    "Costo ": "Da € 5900 a € 5900",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Ingegneria Informatica",
+    "Corsi di laurea + (non lo so) ": "Ingegneria Informatica e dell’Automazione (Sistemi di Elaborazione e Controllo)",
+    "Costo ": "Da € 2600 a € 5900",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Ingegneria Informatica",
+    "Corsi di laurea + (non lo so) ": "Ingegneria Informatica",
+    "Costo ": "Da € 1500 a € 2760",
+    "Ateneo": "Unimarconi"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Ingegneria Informatica",
+    "Corsi di laurea + (non lo so) ": "Ingegneria Elettronica e Informatica (Informatica)",
+    "Costo ": "Da € 4000 a € 5000",
+    "Ateneo": "Unicusano"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Ingegneria Informatica",
+    "Corsi di laurea + (non lo so) ": "Ingegneria informatica",
+    "Costo ": "Da € 1900 a € 2000",
+    "Ateneo": "Uninettuno"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Ingegneria elettronica ",
+    "Corsi di laurea + (non lo so) ": "Ingegneria Elettronica e Informatica (Elettronica e Telecomunicazioni)",
+    "Costo ": "Da € 4000 a € 5000",
+    "Ateneo": "Unicusano"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Lettere",
+    "Corsi di laurea + (non lo so) ": "Lettere, Sapere Umanistico e Formazione",
+    "Costo ": "Da € 1600 a € 3000",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Lettere",
+    "Corsi di laurea + (non lo so) ": "Scienze e Tecnologie delle Arti, dello Spettacolo e del Cinema",
+    "Costo ": "Da € 1600 a € 4000",
+    "Ateneo": "Mercatorum"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Lettere",
+    "Corsi di laurea + (non lo so) ": "Letteratura, Arte, Musica e Spettacolo (Artistico, Audiovisivo e dello Spettacolo)",
+    "Costo ": "Da € 2600 a € 3900",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Lettere",
+    "Corsi di laurea + (non lo so) ": "Letteratura, Arte, Musica e Spettacolo (Letterario)",
+    "Costo ": "Da € 2600 a € 3900",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Lettere",
+    "Corsi di laurea + (non lo so) ": "Lettere (Classiche)",
+    "Costo ": "Da € 1500 a € 2760",
+    "Ateneo": "Unimarconi"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Lettere",
+    "Corsi di laurea + (non lo so) ": "Lettere (Lingue Moderne)",
+    "Costo ": "Da € 1500 a € 2760",
+    "Ateneo": "Unimarconi"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Lettere",
+    "Corsi di laurea + (non lo so) ": "Lettere (Moderne)",
+    "Costo ": "Da € 1500 a € 2760",
+    "Ateneo": "Unimarconi"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Lettere",
+    "Corsi di laurea + (non lo so) ": "Lettere (Diffusione della Conoscenza)",
+    "Costo ": "Da € 4000 a € 5000",
+    "Ateneo": "Unicusano"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Lettere",
+    "Corsi di laurea + (non lo so) ": "Lettere (Materie Letterarie e Linguistiche)",
+    "Costo ": "Da € 4000 a € 5000",
+    "Ateneo": "Unicusano"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Lingue",
+    "Corsi di laurea + (non lo so) ": "Lingue e Mercati",
+    "Costo ": "Da € 1600 a € 3000",
+    "Ateneo": "Mercatorum"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Lingue",
+    "Corsi di laurea + (non lo so) ": "Lingue e Culture Europee e del Resto del Mondo",
+    "Costo ": "Da € 2600 a € 3900",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Psicologia",
+    "Corsi di laurea + (non lo so) ": "Scienze e Tecniche Psicologiche",
+    "Costo ": "Da € 2800 a € 2800",
+    "Ateneo": "Unifortunato"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Psicologia",
+    "Corsi di laurea + (non lo so) ": "Scienze e Tecniche Psicologiche",
+    "Costo ": "Da € 1600 a € 3000",
+    "Ateneo": "Mercatorum"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Psicologia",
+    "Corsi di laurea + (non lo so) ": "Scienze e Tecniche Psicologiche",
+    "Costo ": "Da € 2600 a € 3900",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Psicologia",
+    "Corsi di laurea + (non lo so) ": "Psicologia del Lavoro e dell'Economia",
+    "Costo ": "Da € 1500 a € 2760",
+    "Ateneo": "Unimarconi"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Psicologia",
+    "Corsi di laurea + (non lo so) ": "Scienze e Tecniche Psicologiche",
+    "Costo ": "Da € 1500 a € 2760",
+    "Ateneo": "Unimarconi"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Psicologia",
+    "Corsi di laurea + (non lo so) ": "Scienze e Tecniche Psicologiche",
+    "Costo ": "Da € 3000 a € 3600",
+    "Ateneo": "Unicusano"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Psicologia",
+    "Corsi di laurea + (non lo so) ": "Psicologia – Discipline Psicosociali",
+    "Costo ": "Da € 1900 a € 2000",
+    "Ateneo": "Uninettuno"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Psicologia",
+    "Corsi di laurea + (non lo so) ": "Scienze Psicologiche delle Risorse Umane, delle Organizzazioni e delle Imprese",
+    "Costo ": "Da € 2500 a € 2500",
+    "Ateneo": "Iul"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Scienze Biologiche",
+    "Corsi di laurea + (non lo so) ": "Scienze Biologiche",
+    "Costo ": "Da € 5900 a € 5900",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Scienze del Turismo",
+    "Corsi di laurea + (non lo so) ": "Scienze Turistiche",
+    "Costo ": "Da € 1600 a € 3000",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Scienze del Turismo",
+    "Corsi di laurea + (non lo so) ": "Scienze Turistiche (turismo sostenibile)",
+    "Costo ": "Da € 1600 a € 3000",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Scienze del Turismo",
+    "Corsi di laurea + (non lo so) ": "Scienze del Turismo per il Management e i Beni Culturali (Management dell’Ospitalità e del Territorio)",
+    "Costo ": "Da € 2600 a € 3900",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Scienze del Turismo",
+    "Corsi di laurea + (non lo so) ": "Scienze del Turismo per il Management e i Beni Culturali (Management e Turismo Culturale)",
+    "Costo ": "Da € 2600 a € 3900",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Scienze dell'Amministrazione",
+    "Corsi di laurea + (non lo so) ": "Scienze dell’Amministrazione e dell’Organizzazione",
+    "Costo ": "Da € 2200 a € 2500",
+    "Ateneo": "San Raffaele"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Scienze dell'Amministrazione",
+    "Corsi di laurea + (non lo so) ": "Scienze dell’Amministrazione e dell’Organizzazione (Amministrazioni, Professionisti ed Organizzazioni Sportive)",
+    "Costo ": "Da € 2200 a € 2500",
+    "Ateneo": "San Raffaele"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Scienze dell'Amministrazione",
+    "Corsi di laurea + (non lo so) ": "Scienze dell’Amministrazione e dell’Organizzazione (Organizzazione e Amministrazione dei Servizi Sanitari e Socio Assistenziali)",
+    "Costo ": "Da € 2200 a € 2500",
+    "Ateneo": "San Raffaele"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Scienze dell'Amministrazione",
+    "Corsi di laurea + (non lo so) ": "Scienze dell’Amministrazione (Amministrazione e Organizzazione)",
+    "Costo ": "Da € 1600 a € 2100",
+    "Ateneo": "Unitelma"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Scienze dell'Amministrazione",
+    "Corsi di laurea + (non lo so) ": "Scienze dell’Amministrazione (Amministrazione, Professioni e Organizzazioni Economiche)",
+    "Costo ": "Da € 1600 a € 2100",
+    "Ateneo": "Unitelma"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Scienze dell'Amministrazione",
+    "Corsi di laurea + (non lo so) ": "Scienze dell’Amministrazione (Organizzazione, Sicurezza e Investigazione)",
+    "Costo ": "Da € 1600 a € 2100",
+    "Ateneo": "Unitelma"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Scienze della Comunicazione",
+    "Corsi di laurea + (non lo so) ": "Comunicazione e Multimedialità",
+    "Costo ": "Da € 1600 a € 3000",
+    "Ateneo": "Mercatorum"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Scienze della Comunicazione",
+    "Corsi di laurea + (non lo so) ": "Scienze della Comunicazione (Digital Entertainment and Gaming)",
+    "Costo ": "Da € 5900 a € 5900",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Scienze della Comunicazione",
+    "Corsi di laurea + (non lo so) ": "Scienze della Comunicazione (Istituzionale e d'impresa)",
+    "Costo ": "Da € 2600 a € 5900",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Scienze della Comunicazione",
+    "Corsi di laurea + (non lo so) ": "Scienze della Comunicazione (Influencer)",
+    "Costo ": "Da € 2600 a € 5900",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Scienze della Comunicazione",
+    "Corsi di laurea + (non lo so) ": "Scienze della Comunicazione (Digital marketing)",
+    "Costo ": "Da € 2600 a € 5900",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Scienze della Comunicazione",
+    "Corsi di laurea + (non lo so) ": "Scienze della Comunicazione (Comunicazione Digitale d'Impresa)",
+    "Costo ": "Da € 1900 a € 2000",
+    "Ateneo": "Uninettuno"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Scienze della Comunicazione",
+    "Corsi di laurea + (non lo so) ": "Scienze della Comunicazione (Istituzioni Pubbliche e Media Digitali)",
+    "Costo ": "Da € 1900 a € 2000",
+    "Ateneo": "Uninettuno"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Scienze della Comunicazione",
+    "Corsi di laurea + (non lo so) ": "Comunicazione Innovativa, Multimediale e Digitale",
+    "Costo ": "Da € 2500 a € 2500",
+    "Ateneo": "Iul"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Scienze della Formazione",
+    "Corsi di laurea + (non lo so) ": "Scienze dell'Educazione",
+    "Costo ": "Da € 2800 a € 2800",
+    "Ateneo": "Unifortunato"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Scienze della Formazione",
+    "Corsi di laurea + (non lo so) ": "Scienze dell'Educazione e della Formazione",
+    "Costo ": "Da € 1600 a € 3000",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Scienze della Formazione",
+    "Corsi di laurea + (non lo so) ": "Scienze dell'Educazione e della Formazione",
+    "Costo ": "Da € 2600 a € 3900",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Scienze della Formazione",
+    "Corsi di laurea + (non lo so) ": "Scienze dell'Educazione e della Formazione (Prima Infanzia)",
+    "Costo ": "Da € 2600 a € 3900",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Scienze della Formazione",
+    "Corsi di laurea + (non lo so) ": "Scienze dell'Educazione e della Formazione (Educatore nei Servizi per l'Infanzia)",
+    "Costo ": "Da € 1500 a € 2760",
+    "Ateneo": "Unimarconi"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Scienze della Formazione",
+    "Corsi di laurea + (non lo so) ": "Scienze dell'Educazione e della Formazione (Educazione Sociale e di Comunità)",
+    "Costo ": "Da € 1500 a € 2760",
+    "Ateneo": "Unimarconi"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Scienze della Formazione",
+    "Corsi di laurea + (non lo so) ": "Scienze dell'Educazione e della Formazione",
+    "Costo ": "Da € 3000 a € 3600",
+    "Ateneo": "Unicusano"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Scienze della Formazione",
+    "Corsi di laurea + (non lo so) ": "Scienze dell'Educazione e della Formazione",
+    "Costo ": "Da € 2200 a € 2200",
+    "Ateneo": "Unidav"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Scienze della Formazione",
+    "Corsi di laurea + (non lo so) ": "Scienze e Tecniche dell’Educazione e dei Servizi per l’Infanzia",
+    "Costo ": "Da € 2500 a € 2500",
+    "Ateneo": "Iul"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Scienze della Nutrizione",
+    "Corsi di laurea + (non lo so) ": "Gastronomia, Ospitalità e Territori",
+    "Costo ": "Da € 2800 a € 2800",
+    "Ateneo": "Mercatorum"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Scienze della Nutrizione",
+    "Corsi di laurea + (non lo so) ": "Enologia e viticoltura",
+    "Costo ": "Da € 1600 a € 3000",
+    "Ateneo": "Mercatorum"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Scienze della Nutrizione",
+    "Corsi di laurea + (non lo so) ": "Scienze dell’Alimentazione e Gastronomia",
+    "Costo ": "Da € 2200 a € 2500",
+    "Ateneo": "San Raffaele"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Scienze Motorie",
+    "Corsi di laurea + (non lo so) ": "Scienze Motorie",
+    "Costo ": "Da € 1600 a € 3000",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Scienze Motorie",
+    "Corsi di laurea + (non lo so) ": "Scienze Motorie (biosanitario)",
+    "Costo ": "",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Scienze Motorie",
+    "Corsi di laurea + (non lo so) ": "Scienze Motorie",
+    "Costo ": "Da € 2200 a € 2500",
+    "Ateneo": "San Raffaele"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Scienze Motorie",
+    "Corsi di laurea + (non lo so) ": "Scienze Motorie (Calcio)",
+    "Costo ": "Da € 2200 a € 2500",
+    "Ateneo": "San Raffaele"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Scienze Motorie",
+    "Corsi di laurea + (non lo so) ": "Scienze delle Attività Motorie e Sportive",
+    "Costo ": "Da € 2600 a € 3900",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Scienze Motorie",
+    "Corsi di laurea + (non lo so) ": "Scienze delle Attività Motorie e Sportive (Sport and Football Management)",
+    "Costo ": "Da € 2600 a € 3900",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Scienze Motorie",
+    "Corsi di laurea + (non lo so) ": "Scienze Motorie",
+    "Costo ": "Da € 4000 a € 5000",
+    "Ateneo": "Unicusano"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Scienze Motorie",
+    "Corsi di laurea + (non lo so) ": "Scienze Motorie, Pratica e Gestione delle Attività Sportive",
+    "Costo ": "Da € 2500 a € 2500",
+    "Ateneo": "Iul"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Scienze Politiche",
+    "Corsi di laurea + (non lo so) ": "Scienze Politiche e Relazioni Internazionali",
+    "Costo ": "Da € 1600 a € 3000",
+    "Ateneo": "Mercatorum"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Scienze Politiche",
+    "Corsi di laurea + (non lo so) ": "Scienze Politiche e Sociali (Politica, economia e pubblica amministrazione)",
+    "Costo ": "Da € 2600 a € 3900",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Scienze Politiche",
+    "Corsi di laurea + (non lo so) ": "Scienze Politiche e Sociali (Politica, società e istituzioni)",
+    "Costo ": "Da € 2600 a € 3900",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Scienze Politiche",
+    "Corsi di laurea + (non lo so) ": "Scienze Politiche e Relazioni Internazionali",
+    "Costo ": "Da € 1500 a € 2760",
+    "Ateneo": "Unimarconi"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Scienze Politiche",
+    "Corsi di laurea + (non lo so) ": "Scienze Politiche e Relazioni Internazionali (Consulente del Lavoro)",
+    "Costo ": "Da € 1500 a € 2760",
+    "Ateneo": "Unimarconi"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Scienze Politiche",
+    "Corsi di laurea + (non lo so) ": "Scienze Politiche e Relazioni Internazionali",
+    "Costo ": "Da € 3000 a € 3600",
+    "Ateneo": "Unicusano"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Sociologia",
+    "Corsi di laurea + (non lo so) ": "Sociologia e Innovazione",
+    "Costo ": "Da € 1600 a € 3000",
+    "Ateneo": "Mercatorum"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Sociologia",
+    "Corsi di laurea + (non lo so) ": "Sociologia (Crimine, Sociologia Giuridica e Sicurezza)",
+    "Costo ": "Da € 4000 a € 5000",
+    "Ateneo": "Unicusano"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Sociologia",
+    "Corsi di laurea + (non lo so) ": "Sociologia (Sociologia Economica, dell’Ambiente)",
+    "Costo ": "Da € 4000 a € 5000",
+    "Ateneo": "Unicusano"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Trasporti",
+    "Corsi di laurea + (non lo so) ": "Scienze e Tecnologie dei Trasporti (aereo)",
+    "Costo ": "Da € 3500 a € 3500",
+    "Ateneo": "Unifortunato"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Trasporti",
+    "Corsi di laurea + (non lo so) ": "Scienze e Tecnologie dei Trasporti (terrestre)",
+    "Costo ": "Da € 3500 a € 3500",
+    "Ateneo": "Unifortunato"
+  },
+  {
+    "Tipologia": "Laurea Triennale",
+    "Area": "Trasporti",
+    "Corsi di laurea + (non lo so) ": "Scienze e Tecnologie dei Trasporti (Flight Crew Licence)",
+    "Costo ": "Da € 3500 a € 3500",
+    "Ateneo": "Unifortunato"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Archeologia",
+    "Corsi di laurea + (non lo so) ": "Classical Archaeology (Lingua Inglese)",
+    "Costo ": "Da € 1800 a € 2300",
+    "Ateneo": "Unitelma"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Archeologia",
+    "Corsi di laurea + (non lo so) ": "Letteratura, Lingua e Cultura Italiana (Promozione Culturale)",
+    "Costo ": "Da € 2600 a € 3900",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Digital Marketing",
+    "Corsi di laurea + (non lo so) ": "Comunicazione Digitale e Marketing",
+    "Costo ": "Da € 1600 a € 3000",
+    "Ateneo": "Mercatorum"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Digital Marketing",
+    "Corsi di laurea + (non lo so) ": "Comunicazione Digitale (Cultural and Social Media)",
+    "Costo ": "Da € 4000 a € 5000",
+    "Ateneo": "Unicusano"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Digital Marketing",
+    "Corsi di laurea + (non lo so) ": "Comunicazione Digitale (Game Industry Management and Creative Direction)",
+    "Costo ": "Da € 4000 a € 5000",
+    "Ateneo": "Unicusano"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Economia e management d'impresa",
+    "Costo ": "Da € 2500 a € 2500",
+    "Ateneo": "Unifortunato"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Economia e Management dei trasporti",
+    "Costo ": "",
+    "Ateneo": "Unifortunato"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Scienze Economiche",
+    "Costo ": "Da € 1600 a € 3000",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Management",
+    "Costo ": "Da € 1600 a € 3000",
+    "Ateneo": "Mercatorum"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Management e innovazione",
+    "Costo ": "",
+    "Ateneo": "Mercatorum"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Management e Consulenza Aziendale",
+    "Costo ": "Da € 2200 a € 2500",
+    "Ateneo": "San Raffaele"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Management e Consulenza Aziendale (Banking and Finance)",
+    "Costo ": "Da € 2200 a € 2500",
+    "Ateneo": "San Raffaele"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Management e Consulenza Aziendale (Economia e Management della Sanità e dell’Innovazione Tecnologica)",
+    "Costo ": "Da € 2200 a € 2500",
+    "Ateneo": "San Raffaele"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Management e Consulenza Aziendale (Economia e Management delle Organizzazioni Sportive)",
+    "Costo ": "Da € 2200 a € 2500",
+    "Ateneo": "San Raffaele"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Scienze dell'Economia (eCommerce e Digital Management)",
+    "Costo ": "Da € 2600 a € 3900",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Scienze dell'Economia (Green Economy e Sostenibilità)",
+    "Costo ": "Da € 2600 a € 3900",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Scienze Economiche",
+    "Costo ": "Da € 2600 a € 3900",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Economia e Management per l’Innovazione e la Sostenibilità",
+    "Costo ": "Da € 1500 a € 2760",
+    "Ateneo": "Unimarconi"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Scienze dell'Economia",
+    "Costo ": "Da € 1500 a € 2760",
+    "Ateneo": "Unimarconi"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Economia e Management Aziendale",
+    "Costo ": "Da € 1800 a € 2300",
+    "Ateneo": "Unitelma"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Economia e Sostenibilità",
+    "Costo ": "Da € 1800 a € 2300",
+    "Ateneo": "Unitelma"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Economia, Finanza e Banca",
+    "Costo ": "Da € 1800 a € 2300",
+    "Ateneo": "Unitelma"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Economia, Tecnologia, Innovazione",
+    "Costo ": "Da € 1800 a € 2300",
+    "Ateneo": "Unitelma"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Economy, Technology, Innovation (in lingua Inglese)",
+    "Costo ": "Da € 1800 a € 2300",
+    "Ateneo": "Unitelma"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Scienze Economiche (Innovazione digitale)",
+    "Costo ": "Da € 4000 a € 4100",
+    "Ateneo": "Unicusano"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Gestione d’impresa e tecnologie digitali",
+    "Costo ": "Da € 2100 a € 2200",
+    "Ateneo": "Uninettuno"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Gestione d’impresa e tecnologie digitali (Digital Marketing for Business)",
+    "Costo ": "Da € 2100 a € 2200",
+    "Ateneo": "Uninettuno"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Gestione d’impresa e tecnologie digitali (Green Economy e Gestione Sostenibile)",
+    "Costo ": "Da € 2100 a € 2200",
+    "Ateneo": "Uninettuno"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Scienze dell'Economia (Specialista in attività economiche, di gestione e di controllo)",
+    "Costo ": "Da € 2200 a € 2200",
+    "Ateneo": "Unidav"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Scienze dell'Economia (Economista/Manager delle organizzazioni per la salute)",
+    "Costo ": "Da € 2200 a € 2200",
+    "Ateneo": "Unidav"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Filologia",
+    "Corsi di laurea + (non lo so) ": "Letteratura, Lingua e Cultura Italiana (Filologia)",
+    "Costo ": "Da € 2600 a € 3900",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Filologia",
+    "Corsi di laurea + (non lo so) ": "Filologia e Letterature Moderne",
+    "Costo ": "Da € 1500 a € 2760",
+    "Ateneo": "Unimarconi"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Filosofia",
+    "Corsi di laurea + (non lo so) ": "Scienze Filosofiche Applicate",
+    "Costo ": "Da € 4000 a € 5000",
+    "Ateneo": "Unicusano"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Ingegneria della sicurezza ",
+    "Corsi di laurea + (non lo so) ": "Ingegneria della Sicurezza",
+    "Costo ": "Da € 1600 a € 3000",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Ingegneria elettronica ",
+    "Corsi di laurea + (non lo so) ": "Ingegneria Elettronica",
+    "Costo ": "Da € 4000 a € 4100",
+    "Ateneo": "Unicusano"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Ingegneria Civile",
+    "Corsi di laurea + (non lo so) ": "Ingegneria Civile ed Ambientale (Gestione, Manutenzione e Controllo del Costruito)",
+    "Costo ": "Da € 2600 a € 3900",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Ingegneria Civile",
+    "Corsi di laurea + (non lo so) ": "Ingegneria Civile (Strutture e Territorio)",
+    "Costo ": "Da € 2600 a € 3900",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Ingegneria Civile",
+    "Corsi di laurea + (non lo so) ": "Ingegneria Civile (statutario)",
+    "Costo ": "Da € 1500 a € 2760",
+    "Ateneo": "Unimarconi"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Ingegneria Civile",
+    "Corsi di laurea + (non lo so) ": "Ingegneria Civile (Mitigazione del Rischio Sismico)",
+    "Costo ": "Da € 1500 a € 2760",
+    "Ateneo": "Unimarconi"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Ingegneria Civile",
+    "Corsi di laurea + (non lo so) ": "Ingegneria Civile",
+    "Costo ": "Da € 4000 a € 4100",
+    "Ateneo": "Unicusano"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Ingegneria Civile",
+    "Corsi di laurea + (non lo so) ": "Ingegneria Civile (Edilizia e progettazione)",
+    "Costo ": "Da € 2100 a € 2200",
+    "Ateneo": "Uninettuno"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Ingegneria Civile",
+    "Corsi di laurea + (non lo so) ": "Ingegneria Civile (Strutture e Infrastrutture)",
+    "Costo ": "Da € 2100 a € 2200",
+    "Ateneo": "Uninettuno"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Ingegneria Gestionale",
+    "Corsi di laurea + (non lo so) ": "Ingegneria Gestionale (gestione del rischio)",
+    "Costo ": "Da € 1600 a € 3000",
+    "Ateneo": "Mercatorum"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Ingegneria Gestionale",
+    "Corsi di laurea + (non lo so) ": "Ingegneria Gestionale (Trasformazione digitale)",
+    "Costo ": "Da € 1600 a € 3000",
+    "Ateneo": "Mercatorum"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Ingegneria Gestionale",
+    "Corsi di laurea + (non lo so) ": "Ingegneria Gestionale",
+    "Costo ": "Da € 1500 a € 2760",
+    "Ateneo": "Unimarconi"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Ingegneria Gestionale",
+    "Corsi di laurea + (non lo so) ": "Ingegneria Gestionale",
+    "Costo ": "Da € 4000 a € 4100",
+    "Ateneo": "Unicusano"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Ingegneria Gestionale",
+    "Corsi di laurea + (non lo so) ": "Ingegneria Gestionale (Gestione dei Processi Industriali)",
+    "Costo ": "Da € 2100 a € 2200",
+    "Ateneo": "Uninettuno"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Ingegneria Gestionale",
+    "Corsi di laurea + (non lo so) ": "Ingegneria Gestionale (Industria 4.0)",
+    "Costo ": "Da € 2100 a € 2200",
+    "Ateneo": "Uninettuno"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Ingegneria Gestionale",
+    "Corsi di laurea + (non lo so) ": "Ingegneria Gestionale (Sistemi Energetici)",
+    "Costo ": "Da € 2100 a € 2200",
+    "Ateneo": "Uninettuno"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Ingegneria Industriale",
+    "Corsi di laurea + (non lo so) ": "Ingegneria Industriale (Industria 4.0)",
+    "Costo ": "Da € 2600 a € 3900",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Ingegneria Industriale",
+    "Corsi di laurea + (non lo so) ": "Ingegneria Industriale (Progettuale)",
+    "Costo ": "Da € 2600 a € 3900",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Ingegneria Industriale",
+    "Corsi di laurea + (non lo so) ": "Ingegneria Industriale (Tecnologico Gestionale)",
+    "Costo ": "Da € 2600 a € 3900",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Ingegneria Industriale",
+    "Corsi di laurea + (non lo so) ": "Ingegneria Industriale (Termomeccanico)",
+    "Costo ": "Da € 2600 a € 3900",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Ingegneria Industriale",
+    "Corsi di laurea + (non lo so) ": "Ingegneria Industriale (statutario)",
+    "Costo ": "Da € 1500 a € 2760",
+    "Ateneo": "Unimarconi"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Ingegneria Industriale",
+    "Corsi di laurea + (non lo so) ": "Ingegneria Industriale (gestionale produttivo)",
+    "Costo ": "Da € 1500 a € 2760",
+    "Ateneo": "Unimarconi"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Ingegneria Industriale",
+    "Corsi di laurea + (non lo so) ": "Ingegneria Industriale (Energetico e Nucleare)",
+    "Costo ": "Da € 1500 a € 2760",
+    "Ateneo": "Unimarconi"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Ingegneria Informatica",
+    "Corsi di laurea + (non lo so) ": "Ingegneria Informatica (Artificial Intelligence)",
+    "Costo ": "Da € 2600 a € 3900",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Ingegneria Informatica",
+    "Corsi di laurea + (non lo so) ": "Ingegneria Informatica (Cybersecurity)",
+    "Costo ": "Da € 2600 a € 3900",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Ingegneria Informatica",
+    "Corsi di laurea + (non lo so) ": "Ingegneria Informatica e dell’Automazione",
+    "Costo ": "Da € 2600 a € 3900",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Ingegneria Informatica",
+    "Corsi di laurea + (non lo so) ": "Ingegneria Informatica (Digital Transformation e Data Science)",
+    "Costo ": "Da € 1500 a € 2760",
+    "Ateneo": "Unimarconi"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Ingegneria Informatica",
+    "Corsi di laurea + (non lo so) ": "Ingegneria Informatica (Infrastrutture Digitali e Internet delle Cose)",
+    "Costo ": "Da € 1500 a € 2760",
+    "Ateneo": "Unimarconi"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Ingegneria Informatica",
+    "Corsi di laurea + (non lo so) ": "Ingegneria Informatica (Sistemi Informativi e Qualità del Software)",
+    "Costo ": "Da € 1500 a € 2760",
+    "Ateneo": "Unimarconi"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Ingegneria Informatica",
+    "Corsi di laurea + (non lo so) ": "Ingegneria Informatica",
+    "Costo ": "Da € 4000 a € 5000",
+    "Ateneo": "Unicusano"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Ingegneria Informatica",
+    "Corsi di laurea + (non lo so) ": "Ingegneria Informatica (Big Data)",
+    "Costo ": "Da € 2100 a € 2200",
+    "Ateneo": "Uninettuno"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Ingegneria Informatica",
+    "Corsi di laurea + (non lo so) ": "Ingegneria Informatica (Programmazione e Sicurezza)",
+    "Costo ": "Da € 2100 a € 2200",
+    "Ateneo": "Uninettuno"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Ingegneria Meccanica",
+    "Corsi di laurea + (non lo so) ": "Ingegneria Meccanica (Produzione e gestione)",
+    "Costo ": "Da € 4000 a € 4100",
+    "Ateneo": "Unicusano"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Ingegneria Meccanica",
+    "Corsi di laurea + (non lo so) ": "Ingegneria Meccanica (Automotive)",
+    "Costo ": "Da € 4000 a € 4100",
+    "Ateneo": "Unicusano"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Ingegneria Meccanica",
+    "Corsi di laurea + (non lo so) ": "Ingegneria Meccanica (progettazione)",
+    "Costo ": "Da € 4000 a € 4100",
+    "Ateneo": "Unicusano"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Lettere",
+    "Corsi di laurea + (non lo so) ": "Linguistica Moderna",
+    "Costo ": "Da € 1600 a € 3000",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Lettere",
+    "Corsi di laurea + (non lo so) ": "Letteratura, Lingua e Cultura Italiana (Promozione Culturale)",
+    "Costo ": "Da € 2600 a € 3900",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Lettere",
+    "Corsi di laurea + (non lo so) ": "Letteratura, Lingua e Cultura Italiana (Filologia)",
+    "Costo ": "Da € 2600 a € 3900",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Lettere",
+    "Corsi di laurea + (non lo so) ": "Lettere (Diffusione della conoscenza umanistica nelle forme multimediali)",
+    "Costo ": "Da € 4000 a € 5000",
+    "Ateneo": "Unicusano"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Lettere",
+    "Corsi di laurea + (non lo so) ": " Lingua e letteratura italiana nella società della conoscenza",
+    "Costo ": "Da € 4000 a € 5000",
+    "Ateneo": "Unicusano"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Lingue",
+    "Corsi di laurea + (non lo so) ": "Lingue e Letterature Moderne e Traduzione Interculturale (Lingue e Letterature Europee)",
+    "Costo ": "Da € 2600 a € 3900",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Lingue",
+    "Corsi di laurea + (non lo so) ": "Lingue e Letterature Moderne e Traduzione Interculturale (Traduzione e processi interlinguistici)",
+    "Costo ": "Da € 2600 a € 3900",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Lingue",
+    "Corsi di laurea + (non lo so) ": "Lingue Moderne per la Comunicazione Internazionale",
+    "Costo ": "Da € 1500 a € 2760",
+    "Ateneo": "Unimarconi"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Pedagogia",
+    "Corsi di laurea + (non lo so) ": "Scienze Pedagogiche (e-Learning e Formazione)",
+    "Costo ": "Da € 1600 a € 3000",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Pedagogia",
+    "Corsi di laurea + (non lo so) ": "Scienze Pedagogiche",
+    "Costo ": "Da € 1600 a € 3000",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Pedagogia",
+    "Corsi di laurea + (non lo so) ": "Scienze Pedagogiche (Pedagogia della Disabilità e Marginalità)",
+    "Costo ": "Da € 2600 a € 3900",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Pedagogia",
+    "Corsi di laurea + (non lo so) ": "Scienze Pedagogiche (Pedagogia e Scienze Umane)",
+    "Costo ": "Da € 2600 a € 3900",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Pedagogia",
+    "Corsi di laurea + (non lo so) ": "Scienze Pedagogiche (Teorie e Metodologie dell'e-learning e della Media Education)",
+    "Costo ": "Da € 2600 a € 3900",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Pedagogia",
+    "Corsi di laurea + (non lo so) ": "Pedagogia",
+    "Costo ": "Da € 1500 a € 2760",
+    "Ateneo": "Unimarconi"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Pedagogia",
+    "Corsi di laurea + (non lo so) ": "Scienze Pedagogiche (socio-giuridico)",
+    "Costo ": "Da € 4000 a € 4100",
+    "Ateneo": "Unicusano"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Pedagogia",
+    "Corsi di laurea + (non lo so) ": "Scienze Pedagogiche (Psico - educativo)",
+    "Costo ": "Da € 4000 a € 4100",
+    "Ateneo": "Unicusano"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Psicologia",
+    "Corsi di laurea + (non lo so) ": "Psicologia Comportamentale e Cognitiva Applicata",
+    "Costo ": "Da € 3000 a € 3000",
+    "Ateneo": "Unifortunato"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Psicologia",
+    "Corsi di laurea + (non lo so) ": "Psicologia del Lavoro e delle Organizzazioni",
+    "Costo ": "Da € 1600 a € 3000",
+    "Ateneo": "Mercatorum"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Psicologia",
+    "Corsi di laurea + (non lo so) ": "Psicologia Clinica e Dinamica",
+    "Costo ": "Da € 2600 a € 3900",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Psicologia",
+    "Corsi di laurea + (non lo so) ": "Psicologia e Nuove Tecnologie",
+    "Costo ": "Da € 2600 a € 3900",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Psicologia",
+    "Corsi di laurea + (non lo so) ": "Psicologia Giuridica",
+    "Costo ": "Da € 2600 a € 3900",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Psicologia",
+    "Corsi di laurea + (non lo so) ": "Psicologia Strategica",
+    "Costo ": "Da € 2600 a € 3900",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Psicologia",
+    "Corsi di laurea + (non lo so) ": "Psicologia",
+    "Costo ": "Da € 1500 a € 2760",
+    "Ateneo": "Unimarconi"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Psicologia",
+    "Corsi di laurea + (non lo so) ": "Psicologia Clinica e della Riabilitazione",
+    "Costo ": "Da € 4000 a € 4100",
+    "Ateneo": "Unicusano"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Psicologia",
+    "Corsi di laurea + (non lo so) ": "Psicologia del Lavoro, delle Organizzazioni e dei Servizi",
+    "Costo ": "Da € 4000 a € 4100",
+    "Ateneo": "Unicusano"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Psicologia",
+    "Corsi di laurea + (non lo so) ": "Psicologia dello sviluppo tipico e atipico",
+    "Costo ": "Da € 4000 a € 4100",
+    "Ateneo": "Unicusano"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Psicologia",
+    "Corsi di laurea + (non lo so) ": "Processi Cognitivi e Tecnologie (Cyberpsicologia)",
+    "Costo ": "Da € 2100 a € 2200",
+    "Ateneo": "Uninettuno"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Psicologia",
+    "Corsi di laurea + (non lo so) ": "Processi Cognitivi e Tecnologie (Neuroscienze)",
+    "Costo ": "Da € 2100 a € 2200",
+    "Ateneo": "Uninettuno"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Psicologia",
+    "Corsi di laurea + (non lo so) ": "Processi Cognitivi e Tecnologie (Tecnologie di Supporto Clinico alla Persona)",
+    "Costo ": "Da € 2100 a € 2200",
+    "Ateneo": "Uninettuno"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Scienze dell'Amministrazione",
+    "Corsi di laurea + (non lo so) ": "Management delle Autonomie Territoriali",
+    "Costo ": "Da € 1800 a € 2300",
+    "Ateneo": "Unitelma"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Scienze dell'Amministrazione",
+    "Corsi di laurea + (non lo so) ": "Management delle Aziende Sanitarie",
+    "Costo ": "Da € 1800 a € 2300",
+    "Ateneo": "Unitelma"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Scienze dell'Amministrazione",
+    "Corsi di laurea + (non lo so) ": "Management ed e-Government delle Aziende Pubbliche",
+    "Costo ": "Da € 1800 a € 2300",
+    "Ateneo": "Unitelma"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Scienze della Formazione",
+    "Corsi di laurea + (non lo so) ": "Innovazione Educativa e Apprendimento Permanente nella Formazione degli Adulti in Contesti Nazionali e Internazionali",
+    "Costo ": "Da € 2500 a € 2500",
+    "Ateneo": "Iul"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Scienze della Nutrizione",
+    "Corsi di laurea + (non lo so) ": "Scienze della Nutrizione (Nutraceutica)",
+    "Costo ": "Da € 2200 a € 2500",
+    "Ateneo": "San Raffaele"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Scienze della Nutrizione",
+    "Corsi di laurea + (non lo so) ": "Scienze della Nutrizione Umana",
+    "Costo ": "Da € 2200 a € 2500",
+    "Ateneo": "San Raffaele"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Scienze Motorie",
+    "Corsi di laurea + (non lo so) ": "Management dello Sport e delle Attività Motorie",
+    "Costo ": "Da € 1600 a € 3000",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Scienze Motorie",
+    "Corsi di laurea + (non lo so) ": "Scienze e Tecniche per l’Attività Motoria Preventiva e Adattata",
+    "Costo ": "Da € 2200 a € 2500",
+    "Ateneo": "San Raffaele"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Scienze Motorie",
+    "Corsi di laurea + (non lo so) ": "Scienze dell’Esercizio Fisico per il Benessere e la Salute (Palestra del Benessere)",
+    "Costo ": "Da € 2600 a € 3900",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Scienze Motorie",
+    "Corsi di laurea + (non lo so) ": "Scienze dell'Esercizio Fisico per il Benessere e la Salute (Attività Motoria nella Scuola Secondaria)",
+    "Costo ": "Da € 2600 a € 3900",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Scienze Motorie",
+    "Corsi di laurea + (non lo so) ": "Scienza e Tecniche dello Sport",
+    "Costo ": "Da € 4000 a € 5000",
+    "Ateneo": "Unicusano"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Scienze Politiche",
+    "Corsi di laurea + (non lo so) ": "Relazioni Internazionali per lo Sviluppo Economico",
+    "Costo ": "Da € 1600 a € 3000",
+    "Ateneo": "Mercatorum"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Scienze Politiche",
+    "Corsi di laurea + (non lo so) ": "Scienze Politiche",
+    "Costo ": "Da € 1500 a € 2760",
+    "Ateneo": "Unimarconi"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Scienze Politiche",
+    "Corsi di laurea + (non lo so) ": "Relazioni Internazionali (Studi europei)",
+    "Costo ": "Da € 4000 a € 5000",
+    "Ateneo": "Unicusano"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Scienze Politiche",
+    "Corsi di laurea + (non lo so) ": "Relazioni Internazionali (Cooperazione e sicurezza internazionale)",
+    "Costo ": "Da € 4000 a € 5000",
+    "Ateneo": "Unicusano"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Sociologia",
+    "Corsi di laurea + (non lo so) ": "Sociologia e Ricerca Sociale (Criminologia e Mutamento Sociale)",
+    "Costo ": "Da € 4000 a € 5000",
+    "Ateneo": "Unicusano"
+  },
+  {
+    "Tipologia": "Laurea Magistrale",
+    "Area": "Sociologia",
+    "Corsi di laurea + (non lo so) ": "Sociologia e Ricerca Sociale (Sviluppo Economico-Sociale dell’Ambiente e del Territorio)",
+    "Costo ": "Da € 4000 a € 5000",
+    "Ateneo": "Unicusano"
+  },
+  {
+    "Tipologia": "Ciclo Unico",
+    "Area": "Giurisprudenza",
+    "Corsi di laurea + (non lo so) ": "Giurisprudenza (statutario)",
+    "Costo ": "Da € 2500 a € 2500",
+    "Ateneo": "Unifortunato"
+  },
+  {
+    "Tipologia": "Ciclo Unico",
+    "Area": "Giurisprudenza",
+    "Corsi di laurea + (non lo so) ": "Giurisprudenza (criminologico)",
+    "Costo ": "Da € 2500 a € 2500",
+    "Ateneo": "Unifortunato"
+  },
+  {
+    "Tipologia": "Ciclo Unico",
+    "Area": "Giurisprudenza",
+    "Corsi di laurea + (non lo so) ": "Giurisprudenza",
+    "Costo ": "Da € 1600 a € 3000",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Ciclo Unico",
+    "Area": "Giurisprudenza",
+    "Corsi di laurea + (non lo so) ": "Giurisprudenza",
+    "Costo ": "Da € 2600 a € 3900",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Ciclo Unico",
+    "Area": "Giurisprudenza",
+    "Corsi di laurea + (non lo so) ": "Giurisprudenza",
+    "Costo ": "Da € 1500 a € 2760",
+    "Ateneo": "Unimarconi"
+  },
+  {
+    "Tipologia": "Ciclo Unico",
+    "Area": "Giurisprudenza",
+    "Corsi di laurea + (non lo so) ": "Giurisprudenza (Diritto della società dell'informazione)",
+    "Costo ": "Da € 1800 a € 2300",
+    "Ateneo": "Unitelma"
+  },
+  {
+    "Tipologia": "Ciclo Unico",
+    "Area": "Giurisprudenza",
+    "Corsi di laurea + (non lo so) ": "Giurisprudenza (Diritto e istituzioni)",
+    "Costo ": "Da € 1800 a € 2300",
+    "Ateneo": "Unitelma"
+  },
+  {
+    "Tipologia": "Ciclo Unico",
+    "Area": "Giurisprudenza",
+    "Corsi di laurea + (non lo so) ": "Giurisprudenza (Diritto e security)",
+    "Costo ": "Da € 1800 a € 2300",
+    "Ateneo": "Unitelma"
+  },
+  {
+    "Tipologia": "Ciclo Unico",
+    "Area": "Giurisprudenza",
+    "Corsi di laurea + (non lo so) ": "Giurisprudenza (Diritto, mercati, impresa)",
+    "Costo ": "Da € 1800 a € 2300",
+    "Ateneo": "Unitelma"
+  },
+  {
+    "Tipologia": "Ciclo Unico",
+    "Area": "Giurisprudenza",
+    "Corsi di laurea + (non lo so) ": "Giurisprudenza (Diritto, organizzazioni e relazioni internazionali)",
+    "Costo ": "Da € 1800 a € 2300",
+    "Ateneo": "Unitelma"
+  },
+  {
+    "Tipologia": "Ciclo Unico",
+    "Area": "Giurisprudenza",
+    "Corsi di laurea + (non lo so) ": "Giurisprudenza (Diritto, territori, comunità e welfare)",
+    "Costo ": "Da € 1800 a € 2300",
+    "Ateneo": "Unitelma"
+  },
+  {
+    "Tipologia": "Ciclo Unico",
+    "Area": "Giurisprudenza",
+    "Corsi di laurea + (non lo so) ": "Giurisprudenza",
+    "Costo ": "Da € 3000 a € 3600",
+    "Ateneo": "Unicusano"
+  },
+  {
+    "Tipologia": "Ciclo Unico",
+    "Area": "Giurisprudenza",
+    "Corsi di laurea + (non lo so) ": "Giurisprudenza  (giurista d'impresa)",
+    "Costo ": "Da € 3000 a € 3600",
+    "Ateneo": "Unicusano"
+  },
+  {
+    "Tipologia": "Ciclo Unico",
+    "Area": "Giurisprudenza",
+    "Corsi di laurea + (non lo so) ": "Giurisprudenza",
+    "Costo ": "Da € 2200 a € 2200",
+    "Ateneo": "Unidav"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Beni culturali ",
+    "Corsi di laurea + (non lo so) ": "Gestione e Conservazione del Patrimonio Culturale nell’era Digitale",
+    "Costo ": "2.000€",
+    "Ateneo": "Uninettuno"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Beni culturali ",
+    "Corsi di laurea + (non lo so) ": "Patrimonio culturale ed enogastronomia",
+    "Costo ": "1.800€",
+    "Ateneo": "Uninettuno"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Beni culturali ",
+    "Corsi di laurea + (non lo so) ": "Esperto management del turismo (indirizzo operatore museale e dei beni culturali)",
+    "Costo ": "2.600€",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Beni culturali ",
+    "Corsi di laurea + (non lo so) ": "Il management dei beni e delle attività culturali - MABAC",
+    "Costo ": "1.600€",
+    "Ateneo": "Unitelma"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Beni culturali ",
+    "Corsi di laurea + (non lo so) ": "Management del patrimonio archeologico - MPA",
+    "Costo ": "1.600€",
+    "Ateneo": "Unitelma"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Beni culturali ",
+    "Corsi di laurea + (non lo so) ": "Arte sacra - Iscrizioni Chiuse",
+    "Costo ": "3.666€",
+    "Ateneo": "Iul"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Business Administration",
+    "Costo ": "2.900€",
+    "Ateneo": "Unimarconi "
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Diritto ed economia dello sport",
+    "Costo ": "1.500€",
+    "Ateneo": "Unimarconi "
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Global Marketing & Relazioni Commerciali Internazionali",
+    "Costo ": "1.800€",
+    "Ateneo": "Unimarconi "
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Economia Circolare 4.0 : Energia, Tecnologia e Ambiente",
+    "Costo ": "7.500€",
+    "Ateneo": "Uninettuno"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Global MBA",
+    "Costo ": "4.000€",
+    "Ateneo": "Uninettuno"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Business Administration – MBA",
+    "Costo ": "4.900€",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Esperto management del turismo (indirizzo gestione dei servizi turistici e alberghieri)",
+    "Costo ": "2.600€",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Esperto management del turismo (indirizzo operatore museale e dei beni culturali)",
+    "Costo ": "2.600€",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Esperto management del turismo (indirizzo promozione e valorizzazione del territorio)",
+    "Costo ": "2.600€",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Made in Italy, sostenibilità e internazionalizzazione",
+    "Costo ": "3.000€",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Creazione e gestione di start up di imprese - CREGESI",
+    "Costo ": "1.600€",
+    "Ateneo": "Unitelma"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Economia, sviluppo turistico, ambiente e territorio – ESTATE",
+    "Costo ": "1.600€",
+    "Ateneo": "Unitelma"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Il tributarista: nuove competenze, opportunità, responsabilità",
+    "Costo ": "Da 1100 a 1600",
+    "Ateneo": "Unitelma"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Management delle infrastrutture sportive",
+    "Costo ": "1.916€",
+    "Ateneo": "Iul"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Manager degli eventi e degli spettacoli dal vivo - Iscrizioni chiuse",
+    "Costo ": "7.000€",
+    "Ateneo": "Iul"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Aviation Management",
+    "Costo ": "2.700€",
+    "Ateneo": "Unifortunato "
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Studi Economici Avanzati",
+    "Costo ": "2.700€",
+    "Ateneo": "Unifortunato "
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Finanza e Controllo, Auditing, Risk management e Compliance",
+    "Costo ": "5.900€",
+    "Ateneo": "Unidav"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Hospitality Management e Gestione delle strutture ricettive",
+    "Costo ": "5.900€",
+    "Ateneo": "Unidav"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Scienze dell'economia",
+    "Costo ": "500€",
+    "Ateneo": "Unidav"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Formazione Formatori Business & Corporate Blended",
+    "Costo ": "4.500€",
+    "Ateneo": "Mercatorum "
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Il Management Aziendale",
+    "Costo ": "da 1500 a 2000",
+    "Ateneo": "Mercatorum "
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Il Management e l'Amministrazione delle Imprese",
+    "Costo ": "da 1500 a 2000",
+    "Ateneo": "Mercatorum "
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Il Real Estate, Property & Building Management",
+    "Costo ": "2.450€",
+    "Ateneo": "Mercatorum "
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Management & Innovazione D’Impresa - Edizione Coorte Atsc Confassociazioni",
+    "Costo ": "2.450€",
+    "Ateneo": "Mercatorum "
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Master In Business Coaching",
+    "Costo ": "4.500€",
+    "Ateneo": "Mercatorum "
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Mediazione Creditizia",
+    "Costo ": "2.450€",
+    "Ateneo": "Mercatorum "
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Politiche di Internazionalizzazione ed Economia - Riservato Confesercenti",
+    "Costo ": "2.000€",
+    "Ateneo": "Mercatorum "
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Strategie, Tecniche e Comunicazione della Transizione Energetica e Digitale",
+    "Costo ": "2.500€",
+    "Ateneo": "Mercatorum "
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Sviluppo Sostenibile e Gestione delle Aree Protette",
+    "Costo ": "1.200€",
+    "Ateneo": "Mercatorum "
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Business Administration per l’economia circolare e la green economy",
+    "Costo ": "2.200€",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Gestione d’Impresa 5.0",
+    "Costo ": "da 1600 a 2100",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Ingegneria",
+    "Corsi di laurea + (non lo so) ": "Energy Management",
+    "Costo ": "4.000€",
+    "Ateneo": "Uninettuno"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Ingegneria",
+    "Corsi di laurea + (non lo so) ": "Logiche e Tecniche di Project Management",
+    "Costo ": "3.000€",
+    "Ateneo": "Uninettuno"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Ingegneria",
+    "Corsi di laurea + (non lo so) ": "The Big Data for Civil Engineering and Architecture",
+    "Costo ": "2.500€",
+    "Ateneo": "Uninettuno"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Ingegneria",
+    "Corsi di laurea + (non lo so) ": "Protezione dalle Radiazioni Ionizzanti",
+    "Costo ": "2.500€",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Ingegneria",
+    "Corsi di laurea + (non lo so) ": "Safety Manager: prevenzione dei rischi e gestione della sicurezza sul lavoro",
+    "Costo ": "3.000€",
+    "Ateneo": "Unifortunato "
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Ingegneria",
+    "Corsi di laurea + (non lo so) ": "Tecnici della Sicurezza sul Lavoro - Hse Manager Esperto",
+    "Costo ": "2.450€",
+    "Ateneo": "Mercatorum "
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Psicologia",
+    "Corsi di laurea + (non lo so) ": "Mediazione Familiare",
+    "Costo ": "1.200€",
+    "Ateneo": "Unimarconi "
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Psicologia",
+    "Corsi di laurea + (non lo so) ": "Sviluppo delle competenze non cognitive per la regolazione emotiva",
+    "Costo ": "1.900€",
+    "Ateneo": "Unimarconi "
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Psicologia",
+    "Corsi di laurea + (non lo so) ": "L’impatto di esperienze traumatiche e/o stressanti: prevenzione e strategie di intervento",
+    "Costo ": "3.000€",
+    "Ateneo": "Uninettuno"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Psicologia",
+    "Corsi di laurea + (non lo so) ": "Criminologia, scienze investigative e strategie per la sicurezza - CRIMINS",
+    "Costo ": "1.600€",
+    "Ateneo": "Unitelma"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Psicologia",
+    "Corsi di laurea + (non lo so) ": "Le tossicodipendenze in prospettiva multidisciplinare",
+    "Costo ": "da 1200 a 1600",
+    "Ateneo": "Unitelma"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Psicologia",
+    "Corsi di laurea + (non lo so) ": "Esperto in servizi e politiche del lavoro",
+    "Costo ": "1.016€",
+    "Ateneo": "Iul"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Psicologia",
+    "Corsi di laurea + (non lo so) ": "Criminologia Clinica e Scienze Forensi",
+    "Costo ": "2.700€",
+    "Ateneo": "Unifortunato "
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Psicologia",
+    "Corsi di laurea + (non lo so) ": "Master in Coaching – Blended",
+    "Costo ": "4.500€",
+    "Ateneo": "Mercatorum "
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Psicologia",
+    "Corsi di laurea + (non lo so) ": "Master in Sport Performance Coach Blended",
+    "Costo ": "4.500€",
+    "Ateneo": "Mercatorum "
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Psicologia",
+    "Corsi di laurea + (non lo so) ": "Psicologia Organizzativa, delle Istituzioni e dei Gruppi",
+    "Costo ": "da 1500 a 2000",
+    "Ateneo": "Mercatorum "
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Psicologia",
+    "Corsi di laurea + (non lo so) ": "Animatore di comunità",
+    "Costo ": "da 650 a 800",
+    "Ateneo": "Unipegaso "
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Psicologia",
+    "Corsi di laurea + (non lo so) ": "Career Guidance",
+    "Costo ": "1.500€",
+    "Ateneo": "Unipegaso "
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Psicologia",
+    "Corsi di laurea + (non lo so) ": "Coaching umanistico e programmazione neuro-linguistica",
+    "Costo ": "da 450 a 700",
+    "Ateneo": "Unipegaso "
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Psicologia",
+    "Corsi di laurea + (non lo so) ": "Il Personal Trainer- Mental Coach",
+    "Costo ": "da 1000 a 1500",
+    "Ateneo": "Unipegaso "
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Psicologia",
+    "Corsi di laurea + (non lo so) ": "Orientatore Didattico di sistema",
+    "Costo ": "800€",
+    "Ateneo": "Unipegaso "
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Psicologia",
+    "Corsi di laurea + (non lo so) ": "Trans-Skills per la salute ed il benessere",
+    "Costo ": "da 1000 a 1200",
+    "Ateneo": "Unipegaso "
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Data science",
+    "Corsi di laurea + (non lo so) ": "The Big Data for Civil Engineering and Architecture",
+    "Costo ": "2.500€",
+    "Ateneo": "Uninettuno"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Data science",
+    "Corsi di laurea + (non lo so) ": "Data Protection Officer: Cyber & Risk Manage",
+    "Costo ": "4.200€",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Data science",
+    "Corsi di laurea + (non lo so) ": "Analisi e modellazione dei dati e dei processi: metodi e modelli – AMDP",
+    "Costo ": "1.600€",
+    "Ateneo": "Unitelma"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Data science",
+    "Corsi di laurea + (non lo so) ": "Innovazione Digitale nella Pubblica Amministrazione: Open Data - IPAD",
+    "Costo ": "1.600€",
+    "Ateneo": "Unitelma"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Data science",
+    "Corsi di laurea + (non lo so) ": "Data Protection Manager (GDPR) & Cyber Security for Digital Transformation",
+    "Costo ": "5.900€",
+    "Ateneo": "Unidav"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Data science",
+    "Corsi di laurea + (non lo so) ": "Data Protection Officer e Digitalizzazione della P.A.",
+    "Costo ": "2.000€",
+    "Ateneo": "Mercatorum "
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Giurisprudenza",
+    "Corsi di laurea + (non lo so) ": "Esperto in diritto della Sicurezza del Lavoro",
+    "Costo ": "2.500€",
+    "Ateneo": "Uninettuno"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Giurisprudenza",
+    "Corsi di laurea + (non lo so) ": "European Law and Policies",
+    "Costo ": "2.500€",
+    "Ateneo": "Uninettuno"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Giurisprudenza",
+    "Corsi di laurea + (non lo so) ": "Manager dell’inclusione socio-lavorativa",
+    "Costo ": "7.500€",
+    "Ateneo": "Uninettuno"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Giurisprudenza",
+    "Corsi di laurea + (non lo so) ": "Criminologia - Scienze Forensi ed Investigative",
+    "Costo ": "2.600€",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Giurisprudenza",
+    "Corsi di laurea + (non lo so) ": "Diritto amministrativo",
+    "Costo ": "1.200€",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Giurisprudenza",
+    "Corsi di laurea + (non lo so) ": "Operatore giuridico e studi forensi",
+    "Costo ": "1.500€",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Giurisprudenza",
+    "Corsi di laurea + (non lo so) ": "Antiriciclaggio e sistemi di compliance",
+    "Costo ": "da 3500 a 3800",
+    "Ateneo": "Unitelma"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Giurisprudenza",
+    "Corsi di laurea + (non lo so) ": "Diritto dell’Unione Europea per le pubbliche amministrazioni – DIRUE",
+    "Costo ": "1.600€",
+    "Ateneo": "Unitelma"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Giurisprudenza",
+    "Corsi di laurea + (non lo so) ": "Professionisti della digitalizzazione e della privacy",
+    "Costo ": "da 2300 a 2500",
+    "Ateneo": "Unitelma"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Giurisprudenza",
+    "Corsi di laurea + (non lo so) ": "La Tutela Minore: Diritti, Protezione, Benessere e Responsabilità",
+    "Costo ": "1.500€",
+    "Ateneo": "Unifortunato "
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Giurisprudenza",
+    "Corsi di laurea + (non lo so) ": "Studi Giuridici Avanzati",
+    "Costo ": "2.700€",
+    "Ateneo": "Unifortunato "
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Giurisprudenza",
+    "Corsi di laurea + (non lo so) ": "CTU E CTP: Il Consulente Tecnico d'Ufficio e di Parte, gli Altri Ausiliari del Giudice",
+    "Costo ": "2.450€",
+    "Ateneo": "Mercatorum "
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Giurisprudenza",
+    "Corsi di laurea + (non lo so) ": "Diritto Tributario e Penale d’Impresa",
+    "Costo ": "da 1500 a 2000",
+    "Ateneo": "Mercatorum "
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Giurisprudenza",
+    "Corsi di laurea + (non lo so) ": "Anticorruzione, Trasparenza e Privacy",
+    "Costo ": "da 800 a 1200",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Giurisprudenza",
+    "Corsi di laurea + (non lo so) ": "Diritto e contrattualistica d'impresa",
+    "Costo ": "600€",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Giurisprudenza",
+    "Corsi di laurea + (non lo so) ": "Esperto in pedagogia criminale",
+    "Costo ": "da 800 a 1200",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Giurisprudenza",
+    "Corsi di laurea + (non lo so) ": "Esperto su affido e adozione - (La protezione giuridico/socio/psicologica del minore)",
+    "Costo ": "da 800 a 1300",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Giurisprudenza",
+    "Corsi di laurea + (non lo so) ": "Giurista d'impresa",
+    "Costo ": "da 800 a 1200",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Giurisprudenza",
+    "Corsi di laurea + (non lo so) ": "Il ruolo del curatore nella novellata liquidazione giudiziale",
+    "Costo ": "da 900 a 1200",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Giurisprudenza",
+    "Corsi di laurea + (non lo so) ": "Management della Polizia Locale: sicurezza urbana e gestione strategica dei comandi",
+    "Costo ": "1.000€",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Giurisprudenza",
+    "Corsi di laurea + (non lo so) ": "Mediatore Penale Minorile",
+    "Costo ": "da 800 a 1200",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Giurisprudenza",
+    "Corsi di laurea + (non lo so) ": "Pedagogista giuridico",
+    "Costo ": "da 800 a 1200",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Giurisprudenza",
+    "Corsi di laurea + (non lo so) ": "Principi e metodi storico-filosofici del Diritto",
+    "Costo ": "600€",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Giurisprudenza",
+    "Corsi di laurea + (non lo so) ": "Studi giuridici: processi comunitari e internazionali",
+    "Costo ": "800€",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Nutrizione",
+    "Corsi di laurea + (non lo so) ": "Nutrizione e Dietologia",
+    "Costo ": "1.500€",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Nutrizione",
+    "Corsi di laurea + (non lo so) ": "Scienza dell’alimentazione e dietetica applicata",
+    "Costo ": "da 1000 a 1200",
+    "Ateneo": "Unitelma"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Nutrizione",
+    "Corsi di laurea + (non lo so) ": "Arti e scienze culinarie - Iscrizioni chiuse",
+    "Costo ": "20.032€",
+    "Ateneo": "Iul"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Nutrizione",
+    "Corsi di laurea + (non lo so) ": "Gestione a supporto dei processi per la qualità e la sicurezza alimentare e ambientale",
+    "Costo ": "da 1000 a 1500",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Nutrizione",
+    "Corsi di laurea + (non lo so) ": "La Nutrizione",
+    "Costo ": "da 1000 a 1700",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Nutrizione",
+    "Corsi di laurea + (non lo so) ": "Scienza dell'Alimentazione e Dietetica Applicata, Fabbisogni Nutrizionali negli Sportivi",
+    "Costo ": "1.000€",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Pubblica amministrazione",
+    "Corsi di laurea + (non lo so) ": "Addetto ufficio del processo (Ministero della giustizia)",
+    "Costo ": "1.300€",
+    "Ateneo": "eCampus "
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Pubblica amministrazione",
+    "Corsi di laurea + (non lo so) ": "Funzionario amministrativo enti locali e amministrazione centrale",
+    "Costo ": "1.400€",
+    "Ateneo": "eCampus "
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Pubblica amministrazione",
+    "Corsi di laurea + (non lo so) ": "Innovazione e management nelle PA",
+    "Costo ": "1.400€",
+    "Ateneo": "eCampus "
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Pubblica amministrazione",
+    "Corsi di laurea + (non lo so) ": "Specialista amministrativo contabile nei CPI",
+    "Costo ": "1.300€",
+    "Ateneo": "eCampus "
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Pubblica amministrazione",
+    "Corsi di laurea + (non lo so) ": "Specialista in mercato e servizi per il lavoro nei CPI",
+    "Costo ": "1.300€",
+    "Ateneo": "eCampus "
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Pubblica amministrazione",
+    "Corsi di laurea + (non lo so) ": "Anticorruzione, etica pubblica, trasparenza, amministrazione digitale - MAEP",
+    "Costo ": "1.600€",
+    "Ateneo": "Unitelma"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Pubblica amministrazione",
+    "Corsi di laurea + (non lo so) ": "Contrattazione pubblica – Sviluppo economico, nuove tecnologie - MACSET",
+    "Costo ": "1.600€",
+    "Ateneo": "Unitelma"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Pubblica amministrazione",
+    "Corsi di laurea + (non lo so) ": "Diritti, obblighi e responsabilità del pubblico dipendente - DORP",
+    "Costo ": "1.600€",
+    "Ateneo": "Unitelma"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Pubblica amministrazione",
+    "Corsi di laurea + (non lo so) ": "Federalismo dello stato e autonomia degli enti locali – MAFED",
+    "Costo ": "1.600€",
+    "Ateneo": "Unitelma"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Pubblica amministrazione",
+    "Corsi di laurea + (non lo so) ": "Governance, Management, E-Government delle pubbliche amministrazioni",
+    "Costo ": "da 900 a 1800",
+    "Ateneo": "Unitelma"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Pubblica amministrazione",
+    "Corsi di laurea + (non lo so) ": "Il management dei beni e delle attività culturali - MABAC",
+    "Costo ": "1.600€",
+    "Ateneo": "Unitelma"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Pubblica amministrazione",
+    "Corsi di laurea + (non lo so) ": "La cittadinanza digitale - CIDIG",
+    "Costo ": "1.600€",
+    "Ateneo": "Unitelma"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Pubblica amministrazione",
+    "Corsi di laurea + (non lo so) ": "La tutela dell’ambiente. Profili economici e giuridici – TAMPREG",
+    "Costo ": "1.600€",
+    "Ateneo": "Unitelma"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Pubblica amministrazione",
+    "Corsi di laurea + (non lo so) ": "Management dei processi di semplificazione e digitalizzazione delle PA - MASED",
+    "Costo ": "1.600€",
+    "Ateneo": "Unitelma"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Pubblica amministrazione",
+    "Corsi di laurea + (non lo so) ": "Management del patrimonio archeologico - MPA",
+    "Costo ": "1.600€",
+    "Ateneo": "Unitelma"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Pubblica amministrazione",
+    "Corsi di laurea + (non lo so) ": "Management delle università - UOL",
+    "Costo ": "1.600€",
+    "Ateneo": "Unitelma"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Pubblica amministrazione",
+    "Corsi di laurea + (non lo so) ": "Risk management in sanità e nuove frontiere: PNRR e DM 77/2022",
+    "Costo ": "da 1750 a 2250",
+    "Ateneo": "Unitelma"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Pubblica amministrazione",
+    "Corsi di laurea + (non lo so) ": "Sistemi di prevenzione e contrasto della corruzione",
+    "Costo ": "da 1800 a 2600",
+    "Ateneo": "Unitelma"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Pubblica amministrazione",
+    "Corsi di laurea + (non lo so) ": "Progettazione, Gestione e Coordinamento della Sicurezza Pubblica e Urbana",
+    "Costo ": "2.000€",
+    "Ateneo": "Unidav "
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Design",
+    "Corsi di laurea + (non lo so) ": "Digital graphic designer",
+    "Costo ": "4.950€",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Design",
+    "Corsi di laurea + (non lo so) ": "Fashion Brand Management",
+    "Costo ": "20.950€",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Design",
+    "Corsi di laurea + (non lo so) ": "Fashion Collection Management",
+    "Costo ": "20.950€",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Design",
+    "Corsi di laurea + (non lo so) ": "Fashion Communication Management",
+    "Costo ": "20.950€",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Design",
+    "Corsi di laurea + (non lo so) ": "Sustainable fashion design",
+    "Costo ": "20.950€",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Design",
+    "Corsi di laurea + (non lo so) ": "Fashion And Luxury Management del Made In Italy",
+    "Costo ": "2.000€",
+    "Ateneo": "Mercatorum"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Infermieristica",
+    "Corsi di laurea + (non lo so) ": "Assistenza infermieristica in terapia intensiva",
+    "Costo ": "1.500€",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Infermieristica",
+    "Corsi di laurea + (non lo so) ": "Case manager infermieristico",
+    "Costo ": "1.500€",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Infermieristica",
+    "Corsi di laurea + (non lo so) ": "Formazione infermieristica di ambito psichiatrico",
+    "Costo ": "1.500€",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Infermieristica",
+    "Corsi di laurea + (non lo so) ": "Gestione delle cure palliative e della terapia del dolore",
+    "Costo ": "1.500€",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Infermieristica",
+    "Corsi di laurea + (non lo so) ": "Infermiere di famiglia e di comunità",
+    "Costo ": "1.500€",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Infermieristica",
+    "Corsi di laurea + (non lo so) ": "Infermieristica forense",
+    "Costo ": "850€",
+    "Ateneo": "Unitelma"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Infermieristica",
+    "Corsi di laurea + (non lo so) ": "Area critica ed emergenza in ambito infermieristico",
+    "Costo ": "da 750 a 1300",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Infermieristica",
+    "Corsi di laurea + (non lo so) ": "Assistenza infermieristica in anestesia e rianimazione pediatrica",
+    "Costo ": "da 900 a 1300",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Infermieristica",
+    "Corsi di laurea + (non lo so) ": "Case Management in ambito infermieristico ed ostetrico",
+    "Costo ": "da 1000 a 1500",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Infermieristica",
+    "Corsi di laurea + (non lo so) ": "L'ecografia infermieristica",
+    "Costo ": "da 1000 a 1500",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Infermieristica",
+    "Corsi di laurea + (non lo so) ": "L'Infermiere di camera operatoria",
+    "Costo ": "da 900 a 1400",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Infermieristica",
+    "Corsi di laurea + (non lo so) ": "L'infermiere di famiglia e di comunità",
+    "Costo ": "da 1000 a 1500",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Infermieristica",
+    "Corsi di laurea + (non lo so) ": "L'infermiere di medicina estetica",
+    "Costo ": "da 1000 a 1500",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Professioni sanitarie",
+    "Corsi di laurea + (non lo so) ": "Aspetti giuridici, medico-legali e relazionali della professione sanitaria",
+    "Costo ": "1.500€",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Professioni sanitarie",
+    "Corsi di laurea + (non lo so) ": "Assistenza in pneumologia e della riabilitazione respiratoria",
+    "Costo ": "1.500€",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Professioni sanitarie",
+    "Corsi di laurea + (non lo so) ": "Biomeccanica e interferenze neurofisiologiche alla postura",
+    "Costo ": "1.700€",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Professioni sanitarie",
+    "Corsi di laurea + (non lo so) ": "Case manager infermieristico",
+    "Costo ": "1.500€",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Professioni sanitarie",
+    "Corsi di laurea + (non lo so) ": "Estetica oncologica: ricostruire l'immagine di sé",
+    "Costo ": "1.500€",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Professioni sanitarie",
+    "Corsi di laurea + (non lo so) ": "Formazione dell'educatore sociosanitario",
+    "Costo ": "1.500€",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Professioni sanitarie",
+    "Corsi di laurea + (non lo so) ": "Formazione infermieristica di ambito psichiatrico",
+    "Costo ": "1.500€",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Professioni sanitarie",
+    "Corsi di laurea + (non lo so) ": "Gestione delle cure palliative e della terapia del dolore",
+    "Costo ": "1.500€",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Professioni sanitarie",
+    "Corsi di laurea + (non lo so) ": "Gestione e coordinamento dell'area socio-sanitaria",
+    "Costo ": "1.300€",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Professioni sanitarie",
+    "Corsi di laurea + (non lo so) ": "Il benessere globale: medicina alternativa come supporto alla medicina tradizionale",
+    "Costo ": "1.500€",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Professioni sanitarie",
+    "Corsi di laurea + (non lo so) ": "Il piede diabetico",
+    "Costo ": "1.500€",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Professioni sanitarie",
+    "Corsi di laurea + (non lo so) ": "Il professionista sanitario nell'attività forense: perizia, Consulenza Tecnica d'Ufficio (C.T.U) e consulenza di parte",
+    "Costo ": "1.500€",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Professioni sanitarie",
+    "Corsi di laurea + (non lo so) ": "Infermiere di famiglia e di comunità",
+    "Costo ": "1.500€",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Professioni sanitarie",
+    "Corsi di laurea + (non lo so) ": "L'ostetrica di comunità",
+    "Costo ": "1.500€",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Professioni sanitarie",
+    "Corsi di laurea + (non lo so) ": "La gestione clinica del paziente in doppia diagnosi",
+    "Costo ": "1.500€",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Professioni sanitarie",
+    "Corsi di laurea + (non lo so) ": "La medicina estetica",
+    "Costo ": "1.500€",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Professioni sanitarie",
+    "Corsi di laurea + (non lo so) ": "Management per il coordinamento delle professioni sanitarie",
+    "Costo ": "1.300€",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Professioni sanitarie",
+    "Corsi di laurea + (non lo so) ": "Manager 4.0 in sanità",
+    "Costo ": "1.200€",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Professioni sanitarie",
+    "Corsi di laurea + (non lo so) ": "Medicina estetica e laserologia applicata",
+    "Costo ": "1.500€",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Professioni sanitarie",
+    "Corsi di laurea + (non lo so) ": "Osteopatia",
+    "Costo ": "1.500€",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Professioni sanitarie",
+    "Corsi di laurea + (non lo so) ": "Risk management in sanità",
+    "Costo ": "1.500€",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Professioni sanitarie",
+    "Corsi di laurea + (non lo so) ": "Scienze e Tecniche Osteopatiche",
+    "Costo ": "3.000€",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Professioni sanitarie",
+    "Corsi di laurea + (non lo so) ": "Valutazione Motoria e Posturale",
+    "Costo ": "1.500€",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Professioni sanitarie",
+    "Corsi di laurea + (non lo so) ": "Wound care: gestione e trattamento delle lesioni cutanee",
+    "Costo ": "1.500€",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Professioni sanitarie",
+    "Corsi di laurea + (non lo so) ": "Direzione ed organizzazione delle aziende sanitarie - OAS",
+    "Costo ": "1.600€",
+    "Ateneo": "Unitelma"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Professioni sanitarie",
+    "Corsi di laurea + (non lo so) ": "Infermieristica forense",
+    "Costo ": "850€",
+    "Ateneo": "Unitelma"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Professioni sanitarie",
+    "Corsi di laurea + (non lo so) ": "Le tossicodipendenze in prospettiva multidisciplinare",
+    "Costo ": "da 1200 a 1600",
+    "Ateneo": "Unitelma"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Professioni sanitarie",
+    "Corsi di laurea + (non lo so) ": "Management e funzioni di coordinamento delle professioni sanitarie",
+    "Costo ": "850€",
+    "Ateneo": "Unitelma"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Professioni sanitarie",
+    "Corsi di laurea + (non lo so) ": "Profili giuridici e responsabilità nella gestione dei servizi sanitari – PROGRESS",
+    "Costo ": "1.600€",
+    "Ateneo": "Unitelma"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Professioni sanitarie",
+    "Corsi di laurea + (non lo so) ": "Amministratore di sistema in ambito sanitario",
+    "Costo ": "da 800 a 1200",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Professioni sanitarie",
+    "Corsi di laurea + (non lo so) ": "Aspetti legali e forensi nelle professioni sanitarie",
+    "Costo ": "da 750 a 1300",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Professioni sanitarie",
+    "Corsi di laurea + (non lo so) ": "Assistenza Integrata Ospedale Territorio",
+    "Costo ": "da 750 a 1300",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Professioni sanitarie",
+    "Corsi di laurea + (non lo so) ": "Clinical Governance, Pianificazione Strategica e Sistemi di Gestioni Della Qualità in Sanità",
+    "Costo ": "da 1000 a 1500",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Professioni sanitarie",
+    "Corsi di laurea + (non lo so) ": "Cosmetologia",
+    "Costo ": "da 1000 a 1500",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Professioni sanitarie",
+    "Corsi di laurea + (non lo so) ": "Cure Complementari",
+    "Costo ": "da 750 a 1300",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Professioni sanitarie",
+    "Corsi di laurea + (non lo so) ": "Donna e medicina di segnale, un approccio innovativo",
+    "Costo ": "da 1000 a 1500",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Professioni sanitarie",
+    "Corsi di laurea + (non lo so) ": "Ecografia di supporto per fisioterapisti e podologi",
+    "Costo ": "da 1000 a 1500",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Professioni sanitarie",
+    "Corsi di laurea + (non lo so) ": "Ecografia: tecnica, anatomia ed applicazione clinica",
+    "Costo ": "da 1000 a 1500",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Professioni sanitarie",
+    "Corsi di laurea + (non lo so) ": "Esposizione alle radiazioni ionizzanti e non ionizzanti. Implicazioni e gestione del rischio anche in ambito sanitario e le novità normative connesse alla sicurezza dalle radiazioni per il paziente e per gli operatori",
+    "Costo ": "da 1000 a 1500",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Professioni sanitarie",
+    "Corsi di laurea + (non lo so) ": "Fisioterapia Respiratoria",
+    "Costo ": "da 1000 a 1500",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Professioni sanitarie",
+    "Corsi di laurea + (non lo so) ": "Il wound care basato su prove di efficacia",
+    "Costo ": "da 1000 a 1500",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Professioni sanitarie",
+    "Corsi di laurea + (non lo so) ": "L'ecografia infermieristica",
+    "Costo ": "da 1000 a 1500",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Professioni sanitarie",
+    "Corsi di laurea + (non lo so) ": "L’applicazione della Medicina Tradizionale Cinese in ambito clinico",
+    "Costo ": "da 1000 a 1500",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Professioni sanitarie",
+    "Corsi di laurea + (non lo so) ": "La ricerca scientifica in ambito sanitario - In collaborazione con: Federazione Nazionale TSRM e delle Professioni Sanitarie TRP",
+    "Costo ": "da 800 a 1500",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Professioni sanitarie",
+    "Corsi di laurea + (non lo so) ": "La Tomografia computerizzata Applicazioni standard ed avanzate in ambito clinico ed industriale",
+    "Costo ": "da 1000 a 1500",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Professioni sanitarie",
+    "Corsi di laurea + (non lo so) ": "Management per le funzioni di coordinamento nell'area delle professioni sanitarie",
+    "Costo ": "da 750 a 1300",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Professioni sanitarie",
+    "Corsi di laurea + (non lo so) ": "Metodiche e tecnologie avanzate in Medicina Nucleare in Collaborazione con il Gruppo Italiano Tecnici di Medicina Nucleare",
+    "Costo ": "da 1000 a 1500",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Professioni sanitarie",
+    "Corsi di laurea + (non lo so) ": "Microbiologia Clinica e cenni di Parassitologia: tecniche diagnostiche ed applicazione",
+    "Costo ": "da 1000 a 1500",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Professioni sanitarie",
+    "Corsi di laurea + (non lo so) ": "Osteopatia In collaborazione con S.E.F.O. e A.I.P.U.",
+    "Costo ": "da 1000 a 1500",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Professioni sanitarie",
+    "Corsi di laurea + (non lo so) ": "Ostetricia di comunità",
+    "Costo ": "da 1000 a 1500",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Professioni sanitarie",
+    "Corsi di laurea + (non lo so) ": "Posturologia",
+    "Costo ": "da 1000 a 1500",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Professioni sanitarie",
+    "Corsi di laurea + (non lo so) ": "Risk Management (Gestione del rischio in Sanità)",
+    "Costo ": "da 1000 a 1500",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Professioni sanitarie",
+    "Corsi di laurea + (non lo so) ": "Risonanza Magnetica: applicazioni e competenze specialistiche (ai sensi della LEGGE 1 febbraio 2006, n. 43)",
+    "Costo ": "da 1000 a 1500",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Professioni sanitarie",
+    "Corsi di laurea + (non lo so) ": "Sorveglianza Epidemologica e controllo delle infezioni correlate all'assistenza sanitaria",
+    "Costo ": "da 1000 a 1500",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Professioni sanitarie",
+    "Corsi di laurea + (non lo so) ": "Stomaterapia e incontinenze",
+    "Costo ": "da 1000 a 1500",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Professioni sanitarie",
+    "Corsi di laurea + (non lo so) ": "Tecnico Ortopedico come Direttore Tecnico e persona responsabile dell’applicazione della normativa in azienda: PRRC (Person Responsible Regulatory Compliance)",
+    "Costo ": "da 1000 a 1500",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Professioni sanitarie",
+    "Corsi di laurea + (non lo so) ": "Terapia endovenosa ed accessi vascolari (In collaborazione con IRCCS Neuromed)",
+    "Costo ": "da 700 a 1000",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Risorse umane ",
+    "Corsi di laurea + (non lo so) ": "Ergonomia e Fattori Umani nelle Organizzazioni Complesse",
+    "Costo ": "1.800€",
+    "Ateneo": "Unimarconi"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Risorse umane ",
+    "Corsi di laurea + (non lo so) ": "Risorse Umane ed Organizzazione",
+    "Costo ": "1.800€",
+    "Ateneo": "Unimarconi"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Risorse umane ",
+    "Corsi di laurea + (non lo so) ": "Risorse Umane, Lavoro e Organizzazione",
+    "Costo ": "3.600€",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Risorse umane ",
+    "Corsi di laurea + (non lo so) ": "Specialista in mercato e servizi per il lavoro nei CPI",
+    "Costo ": "1.300€",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Risorse umane ",
+    "Corsi di laurea + (non lo so) ": "La salute e sicurezza sul lavoro - SICURO",
+    "Costo ": "1.600€",
+    "Ateneo": "Unitelma"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Risorse umane ",
+    "Corsi di laurea + (non lo so) ": "Organizzazione e gestione delle risorse umane – OGRU",
+    "Costo ": "1.600€",
+    "Ateneo": "Unitelma"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Risorse umane ",
+    "Corsi di laurea + (non lo so) ": "HR Training Manager – learning & development",
+    "Costo ": "3.400€",
+    "Ateneo": "Unidav"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Risorse umane ",
+    "Corsi di laurea + (non lo so) ": "Human Resource Management: organization, development strategies",
+    "Costo ": "5.900€",
+    "Ateneo": "Unidav"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Risorse umane ",
+    "Corsi di laurea + (non lo so) ": "Hr Manager & Digital Skills",
+    "Costo ": "2.000€",
+    "Ateneo": "Mercatorum"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Risorse umane ",
+    "Corsi di laurea + (non lo so) ": "Risorse Umane & Nuove Organizzazioni",
+    "Costo ": "da 1600 a 2100",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Digital Marketing",
+    "Corsi di laurea + (non lo so) ": "Global Journalism",
+    "Costo ": "2.500€",
+    "Ateneo": "Uninettuno "
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Digital Marketing",
+    "Corsi di laurea + (non lo so) ": "Digital marketing specialist",
+    "Costo ": "4.950€",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Digital Marketing",
+    "Corsi di laurea + (non lo so) ": "Esperto management della comunicazione",
+    "Costo ": "2.600€",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Digital Marketing",
+    "Corsi di laurea + (non lo so) ": "Storytelling",
+    "Costo ": "3.900€",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Digital Marketing",
+    "Corsi di laurea + (non lo so) ": "Comunicazione d'impresa",
+    "Costo ": "2.200€",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Digital Marketing",
+    "Corsi di laurea + (non lo so) ": "Comunicazione e Social Marketing nelle Imprese Industriali",
+    "Costo ": "da 600 a 1000",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Digital Marketing",
+    "Corsi di laurea + (non lo so) ": "Comunicazione, scrittura e storytelling",
+    "Costo ": "da 1600 a 2100",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Digital Marketing",
+    "Corsi di laurea + (non lo so) ": "Digital Marketing, Social Media Communication & eCommerce Management",
+    "Costo ": "da 2000 a 2500",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Digital Marketing",
+    "Corsi di laurea + (non lo so) ": "Social Media Manager",
+    "Costo ": "da 1600 a 2100",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Digital Marketing",
+    "Corsi di laurea + (non lo so) ": "Virtual Community Manager",
+    "Costo ": "da 650 a 800",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Informatica",
+    "Corsi di laurea + (non lo so) ": "Data Protection Officer: Cyber & Risk Manager",
+    "Costo ": "4.200€",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Informatica",
+    "Corsi di laurea + (non lo so) ": "Analisi e modellazione dei dati e dei processi: metodi e modelli – AMDP",
+    "Costo ": "1.600€",
+    "Ateneo": "Unitelma"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Informatica",
+    "Corsi di laurea + (non lo so) ": "La cittadinanza digitale - CIDIG",
+    "Costo ": "1.600€",
+    "Ateneo": "Unitelma"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Informatica",
+    "Corsi di laurea + (non lo so) ": "Data Protection Manager (GDPR) & Cyber Security for Digital Transformation",
+    "Costo ": "5.900€",
+    "Ateneo": "Unidav"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Informatica",
+    "Corsi di laurea + (non lo so) ": "Nuove Frontiere Della Cyber Security",
+    "Costo ": "2.200€",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Project management",
+    "Corsi di laurea + (non lo so) ": "Logiche e Tecniche di Project Management",
+    "Costo ": "3.000€",
+    "Ateneo": "Uninettuno"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Project management",
+    "Corsi di laurea + (non lo so) ": "Gestione delle istituzioni scolastiche e responsabilità formative - MAGIS",
+    "Costo ": "1.600€",
+    "Ateneo": "Unitelma"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Project management",
+    "Corsi di laurea + (non lo so) ": "Sustainability Management – SUSTMAG",
+    "Costo ": "1.600€",
+    "Ateneo": "Unitelma"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Project management",
+    "Corsi di laurea + (non lo so) ": "Management delle infrastrutture sportive",
+    "Costo ": "1.916€",
+    "Ateneo": "Iul"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Project management",
+    "Corsi di laurea + (non lo so) ": "Finanza e Controllo, Auditing, Risk management e Compliance",
+    "Costo ": "5.900€",
+    "Ateneo": "Unidav"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Project management",
+    "Corsi di laurea + (non lo so) ": "Hospitality Management e Gestione delle strutture ricettive",
+    "Costo ": "5.900€",
+    "Ateneo": "Unidav"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Project management",
+    "Corsi di laurea + (non lo so) ": "Fintech: Formazione e Sviluppo del Digital Project Manager",
+    "Costo ": "2.200€",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Project management",
+    "Corsi di laurea + (non lo so) ": "Manager dello sport",
+    "Costo ": "1.200€",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Project management",
+    "Corsi di laurea + (non lo so) ": "Manager per l'Applicazione dei Processi di Industria 4.0",
+    "Costo ": "2.200€",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Project management",
+    "Corsi di laurea + (non lo so) ": "Project Management nel Settore delle Costruzioni",
+    "Costo ": "da 800 a 1200",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Project management",
+    "Corsi di laurea + (non lo so) ": "Risk and Disaster Management",
+    "Costo ": "da 800 a 1200",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Scienze Politiche ",
+    "Corsi di laurea + (non lo so) ": "Ergonomia e Fattori Umani nelle Organizzazioni Complesse",
+    "Costo ": "1.800€",
+    "Ateneo": "Unimarconi "
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Scienze Politiche ",
+    "Corsi di laurea + (non lo so) ": "Fenomeno Migratorio e Mediazione Culturale",
+    "Costo ": "1.200€",
+    "Ateneo": "Unimarconi "
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Scienze Politiche ",
+    "Corsi di laurea + (non lo so) ": "Global Journalism",
+    "Costo ": "2.500€",
+    "Ateneo": "Uninettuno"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Scienze Politiche ",
+    "Corsi di laurea + (non lo so) ": "Funzioni internazionali e la cooperazione allo sviluppo",
+    "Costo ": "4.300€",
+    "Ateneo": "Unitelma"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Scienze Politiche ",
+    "Corsi di laurea + (non lo so) ": "Logistica multimodale - dogane e commercio estero",
+    "Costo ": "1.500€",
+    "Ateneo": "Unitelma"
+  },
+  {
+    "Tipologia": "Master 1° livello ",
+    "Area": "Scienze Politiche ",
+    "Corsi di laurea + (non lo so) ": "Sviluppo Sostenibile e Gestione delle Aree Protette",
+    "Costo ": "1.200€",
+    "Ateneo": "Mercatorum"
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Beni Culturali ",
+    "Corsi di laurea + (non lo so) ": "Esperto management del turismo (indirizzo operatore museale e dei beni culturali)",
+    "Costo ": "2.600€",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Beni Culturali ",
+    "Corsi di laurea + (non lo so) ": "Tutela, valorizzazione e restauro dei beni culturali e architettonici della Chiesa",
+    "Costo ": "9.000€",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Business Administration (in lingua inglese)",
+    "Costo ": "2.900€",
+    "Ateneo": "Unimarconi "
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Executive MBA",
+    "Costo ": "1.800€",
+    "Ateneo": "Unimarconi "
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "International Management (in lingua inglese)",
+    "Costo ": "3.500€",
+    "Ateneo": "Unimarconi "
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Risk Management",
+    "Costo ": "1.800€",
+    "Ateneo": "Unimarconi "
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Business Administration – MBA",
+    "Costo ": "4.900€",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Esperto management del turismo (indirizzo gestione dei servizi turistici e alberghieri)",
+    "Costo ": "2.600€",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Esperto management del turismo (indirizzo operatore museale e dei beni culturali)",
+    "Costo ": "2.600€",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Esperto management del turismo (indirizzo promozione e valorizzazione del territorio)",
+    "Costo ": "2.600€",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Logistica, economia marittima e security del mare",
+    "Costo ": "2.900€",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Economia",
+    "Corsi di laurea + (non lo so) ": "Intelligence e Security. Protezione del Sistema Paese e Sicurezza Aziendale",
+    "Costo ": "2.000€",
+    "Ateneo": "Unidav"
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Ingegneria",
+    "Corsi di laurea + (non lo so) ": "Gestione del Processo Edilizio",
+    "Costo ": "1.800€",
+    "Ateneo": "Unimarconi  "
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Ingegneria",
+    "Corsi di laurea + (non lo so) ": "Logistica, economia marittima e security del mare",
+    "Costo ": "2.900€",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Ingegneria",
+    "Corsi di laurea + (non lo so) ": "Urban and Peri-Urban Regeneration",
+    "Costo ": "9.000€",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Psicologia",
+    "Corsi di laurea + (non lo so) ": "Scienze Criminologiche e Forensi",
+    "Costo ": "1.800€",
+    "Ateneo": "Unimarconi "
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Psicologia",
+    "Corsi di laurea + (non lo so) ": "Criminologia - Psicologia Giuridica e Forense",
+    "Costo ": "2.600€",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Psicologia",
+    "Corsi di laurea + (non lo so) ": "Approccio Multidisciplinare ai Disturbi del Comportamento Alimentare e Obesità",
+    "Costo ": "2.300€",
+    "Ateneo": "Unitelma"
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Psicologia",
+    "Corsi di laurea + (non lo so) ": "Architettura curativa, Psicologia e Psicoanalisi dell’Architettura - Iscrizioni chiuse",
+    "Costo ": "2.400€",
+    "Ateneo": "Iul"
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Data science",
+    "Corsi di laurea + (non lo so) ": "Diritto antitrust, mercati e big data - DAMB",
+    "Costo ": "1.600€",
+    "Ateneo": "Unitelma"
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Giurisprudenza",
+    "Corsi di laurea + (non lo so) ": "Diritto Tributario",
+    "Costo ": "1.500€",
+    "Ateneo": "Unimarconi"
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Giurisprudenza",
+    "Corsi di laurea + (non lo so) ": "Scienze Criminologiche e Forensi",
+    "Costo ": "1.800€",
+    "Ateneo": "Unimarconi "
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Giurisprudenza",
+    "Corsi di laurea + (non lo so) ": "Criminologia - Scienze Forensi ed Investigative",
+    "Costo ": "2.600€",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Giurisprudenza",
+    "Corsi di laurea + (non lo so) ": "Diritto amministrativo",
+    "Costo ": "1.400€",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Giurisprudenza",
+    "Corsi di laurea + (non lo so) ": "Scienze informative per la sicurezza (in collaborazione con l'Albo Nazionale Analisti Intelligence)",
+    "Costo ": "2.500€",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Giurisprudenza",
+    "Corsi di laurea + (non lo so) ": "Diritto antitrust, mercati e big data - DAMB",
+    "Costo ": "1.600€",
+    "Ateneo": "Unitelma"
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Giurisprudenza",
+    "Corsi di laurea + (non lo so) ": "Diritto e gestione della crisi d’impresa - DGCI",
+    "Costo ": "1.600€",
+    "Ateneo": "Unitelma"
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Giurisprudenza",
+    "Corsi di laurea + (non lo so) ": "La gestione dei beni confiscati per amministratori giudiziari",
+    "Costo ": "1.600€",
+    "Ateneo": "Unitelma"
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Giurisprudenza",
+    "Corsi di laurea + (non lo so) ": "Diritto Tributario",
+    "Costo ": "2.500€",
+    "Ateneo": "Mercatorum "
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Giurisprudenza",
+    "Corsi di laurea + (non lo so) ": "Diritto Tributario e PA",
+    "Costo ": "1.200€",
+    "Ateneo": "Mercatorum "
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Giurisprudenza",
+    "Corsi di laurea + (non lo so) ": "European Transport Infrastructures Law And Economics",
+    "Costo ": "da 1500 a 2000",
+    "Ateneo": "Mercatorum "
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Giurisprudenza",
+    "Corsi di laurea + (non lo so) ": "Studi Avanzati di Diritto del Lavoro, Organizzazione e Relazioni Industriali",
+    "Costo ": "da 1500 a 3000",
+    "Ateneo": "Mercatorum "
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Giurisprudenza",
+    "Corsi di laurea + (non lo so) ": "Management della polizia locale: sicurezza urbana e gestione strategica dei comandi",
+    "Costo ": "1.200€",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Giurisprudenza",
+    "Corsi di laurea + (non lo so) ": "Security ed intelligence: analisi e gestione",
+    "Costo ": "da 1200 a 1500",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Giurisprudenza",
+    "Corsi di laurea + (non lo so) ": "Sicurezza Economico Finanziaria e Antiriciclaggio",
+    "Costo ": "da 1200 a 1500",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Giurisprudenza",
+    "Corsi di laurea + (non lo so) ": "Studi Penitenziari e dell'Esecuzione Penale",
+    "Costo ": "da 600 a 1000",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Nutrizione ",
+    "Corsi di laurea + (non lo so) ": "Approccio Multidisciplinare ai Disturbi del Comportamento Alimentare e Obesità",
+    "Costo ": "2.300€",
+    "Ateneo": "Unitelma"
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Nutrizione ",
+    "Corsi di laurea + (non lo so) ": "Nutrizione e Dietetica Applicata",
+    "Costo ": "da 1700 a 2000",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Nutrizione ",
+    "Corsi di laurea + (non lo so) ": "Utilizzo delle Diete Chetogeniche come Terapia non Farmacologica nella Pratica Clinica Ambulatoriale",
+    "Costo ": "da 1200 a 1500",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Pubblica amministrazione",
+    "Corsi di laurea + (non lo so) ": "Governo del Territorio",
+    "Costo ": "1.800€",
+    "Ateneo": "Unimarconi "
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Pubblica amministrazione",
+    "Corsi di laurea + (non lo so) ": "Scienze della Pubblica Amministrazione",
+    "Costo ": "1.800€",
+    "Ateneo": "Unimarconi "
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Pubblica amministrazione",
+    "Corsi di laurea + (non lo so) ": "Addetto ufficio del processo (Ministero della giustizia)",
+    "Costo ": "1.500€",
+    "Ateneo": "eCampus "
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Pubblica amministrazione",
+    "Corsi di laurea + (non lo so) ": "Funzionario amministrativo enti locali e amministrazione centrale",
+    "Costo ": "1.600€",
+    "Ateneo": "eCampus "
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Pubblica amministrazione",
+    "Corsi di laurea + (non lo so) ": "Governance e management della PA",
+    "Costo ": "1.600€",
+    "Ateneo": "eCampus "
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Pubblica amministrazione",
+    "Corsi di laurea + (non lo so) ": "Specialista amministrativo contabile nei CPI",
+    "Costo ": "1.500€",
+    "Ateneo": "eCampus "
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Pubblica amministrazione",
+    "Corsi di laurea + (non lo so) ": "Specialista in mercato e servizi per il lavoro nei CPI",
+    "Costo ": "1.500€",
+    "Ateneo": "eCampus "
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Pubblica amministrazione",
+    "Corsi di laurea + (non lo so) ": "Contrattualistica pubblica - MCP",
+    "Costo ": "1.600€",
+    "Ateneo": "Unitelma"
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Pubblica amministrazione",
+    "Corsi di laurea + (non lo so) ": "La riforma del lavoro pubblico - RLP",
+    "Costo ": "1.600€",
+    "Ateneo": "Unitelma"
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Pubblica amministrazione",
+    "Corsi di laurea + (non lo so) ": "Management, organizzazione sanitaria e PNRR",
+    "Costo ": "2.800€",
+    "Ateneo": "Unitelma"
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Pubblica amministrazione",
+    "Corsi di laurea + (non lo so) ": "Nuove frontiere della consulenza aziendale per le PA - CIPA",
+    "Costo ": "1.600€",
+    "Ateneo": "Unitelma"
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Pubblica amministrazione",
+    "Corsi di laurea + (non lo so) ": "Organizzazione, innovazione nelle pubbliche amministrazioni - OIPA",
+    "Costo ": "1.600€",
+    "Ateneo": "Unitelma"
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Pubblica amministrazione",
+    "Corsi di laurea + (non lo so) ": "Tradizionali e nuove professionalità per la ricerca clinica",
+    "Costo ": "2.500€",
+    "Ateneo": "Unitelma"
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Pubblica amministrazione",
+    "Corsi di laurea + (non lo so) ": "Monitoraggio e controlli nel PNRR e nei Fondi Strutturali - Iscrizioni chiuse",
+    "Costo ": "2.516€",
+    "Ateneo": "Iul"
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Pubblica amministrazione",
+    "Corsi di laurea + (non lo so) ": "Esperti in Salvaguardia degli Ecosistemi Forestali dal Fenomeno degli Incendi Boschivi",
+    "Costo ": "2.700€",
+    "Ateneo": "Unifortunato "
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Pubblica amministrazione",
+    "Corsi di laurea + (non lo so) ": "Management E Governance delle Politiche di Coesione e Divario Territoriale",
+    "Costo ": "da 1500 a 2000",
+    "Ateneo": "Mercatorum "
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Pubblica amministrazione",
+    "Corsi di laurea + (non lo so) ": "Strategie Organizzative e di Innovazione nella P.A",
+    "Costo ": "1.200€",
+    "Ateneo": "Mercatorum "
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Pubblica amministrazione",
+    "Corsi di laurea + (non lo so) ": "Esperto in mercato del lavoro e welfare",
+    "Costo ": "da 800 a 1200",
+    "Ateneo": "Unipegaso "
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Pubblica amministrazione",
+    "Corsi di laurea + (non lo so) ": "La tutela del bilancio dell'UE. Strategie di contrasto ed azioni e misure preventive degli illeciti nel campo di spesa pubblica di origine europea e nazionale",
+    "Costo ": "da 1200 a 1500",
+    "Ateneo": "Unipegaso "
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Pubblica amministrazione",
+    "Corsi di laurea + (non lo so) ": "Strategie Organizzative e di Innovazione nella P.A.",
+    "Costo ": "da 800 a 1200",
+    "Ateneo": "Unipegaso "
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Design",
+    "Corsi di laurea + (non lo so) ": "Fashion Management & Design (in lingua inglese)",
+    "Costo ": "3.500€",
+    "Ateneo": "Unimarconi"
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Design",
+    "Corsi di laurea + (non lo so) ": "Interior Design (in lingua inglese)",
+    "Costo ": "3.500€",
+    "Ateneo": "Unimarconi"
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Infermieristica",
+    "Corsi di laurea + (non lo so) ": "Management sanitario",
+    "Costo ": "1.800€",
+    "Ateneo": "Unimarconi"
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Infermieristica",
+    "Corsi di laurea + (non lo so) ": "Medicina integrata",
+    "Costo ": "1.800€",
+    "Ateneo": "Unimarconi"
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Infermieristica",
+    "Corsi di laurea + (non lo so) ": "Management per la Direzione di Struttura Complessa",
+    "Costo ": "1.700€",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Infermieristica",
+    "Corsi di laurea + (non lo so) ": "Management sanitario 4.0",
+    "Costo ": "2.800€",
+    "Ateneo": "Unitelma"
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Professioni sanitarie",
+    "Corsi di laurea + (non lo so) ": "Management sanitario",
+    "Costo ": "1.800€",
+    "Ateneo": "Unimarconi"
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Professioni sanitarie",
+    "Corsi di laurea + (non lo so) ": "Medicina integrata",
+    "Costo ": "1.800€",
+    "Ateneo": "Unimarconi"
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Professioni sanitarie",
+    "Corsi di laurea + (non lo so) ": "Ricerca Clinica e Medical Affairs. Farmaci e Medical Devices",
+    "Costo ": "2.500€",
+    "Ateneo": "Unimarconi"
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Professioni sanitarie",
+    "Corsi di laurea + (non lo so) ": "Management per la Direzione di Struttura Complessa",
+    "Costo ": "1.700€",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Professioni sanitarie",
+    "Corsi di laurea + (non lo so) ": "Management sanitario 4.0",
+    "Costo ": "2.800€",
+    "Ateneo": "Unitelma"
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Professioni sanitarie",
+    "Corsi di laurea + (non lo so) ": "Management, organizzazione sanitaria e PNRR",
+    "Costo ": "2.800€",
+    "Ateneo": "Unitelma"
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Professioni sanitarie",
+    "Corsi di laurea + (non lo so) ": "Biologia Forense: il Biologo CTU, Perito E CTP",
+    "Costo ": "4.000€",
+    "Ateneo": "Mercatorum"
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Professioni sanitarie",
+    "Corsi di laurea + (non lo so) ": "Management Sanitario",
+    "Costo ": "2.000€",
+    "Ateneo": "Mercatorum"
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Professioni sanitarie",
+    "Corsi di laurea + (non lo so) ": "Cosmetologia",
+    "Costo ": "da 2000 a 3000",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Professioni sanitarie",
+    "Corsi di laurea + (non lo so) ": "Esposizioni alle radiazioni ionizzanti e non ionizzanti. Implicazioni e gestione del rischio anche in ambito sanitario e le novità normative connesse alla sicurezza dalle radiazioni per il paziente e per gli operatori",
+    "Costo ": "da 2000 a 3000",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Professioni sanitarie",
+    "Corsi di laurea + (non lo so) ": "Management delle Aziende Sanitarie",
+    "Costo ": "da 1200 a 1700",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Professioni sanitarie",
+    "Corsi di laurea + (non lo so) ": "Medicina Estetica",
+    "Costo ": "da 2000 a 3000",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Professioni sanitarie",
+    "Corsi di laurea + (non lo so) ": "Medicina legale assicurativa",
+    "Costo ": "da 1200 a 1800",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Professioni sanitarie",
+    "Corsi di laurea + (non lo so) ": "Medicina legale: il danno alla persona nei suoi aspetti medico-legali e giuridici",
+    "Costo ": "da 1000 a 1300",
+    "Ateneo": "Unipegaso"
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Risorse umane ",
+    "Corsi di laurea + (non lo so) ": "Specialista in mercato e servizi per il lavoro nei CPI",
+    "Costo ": "1.500€",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Digital Marketing",
+    "Corsi di laurea + (non lo so) ": "Digital Marketing (in lingua inglese)",
+    "Costo ": "3.500€",
+    "Ateneo": "Unimarconi"
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Digital Marketing",
+    "Corsi di laurea + (non lo so) ": "Esperto management della comunicazione",
+    "Costo ": "2.600€",
+    "Ateneo": "eCampus"
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Informatica",
+    "Corsi di laurea + (non lo so) ": "Diritto antitrust, mercati e big data - DAMB",
+    "Costo ": "1.600€",
+    "Ateneo": "Unitelma"
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Informatica",
+    "Corsi di laurea + (non lo so) ": "Metodi e modelli quantitativi di supporto alle decisioni - MEMO",
+    "Costo ": "1.600€",
+    "Ateneo": "Unitelma"
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Project management",
+    "Corsi di laurea + (non lo so) ": "International Management (in lingua inglese)",
+    "Costo ": "3.500€",
+    "Ateneo": "Unimarconi"
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Project management",
+    "Corsi di laurea + (non lo so) ": "Risk Management",
+    "Costo ": "1.800€",
+    "Ateneo": "Unimarconi"
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Project management",
+    "Corsi di laurea + (non lo so) ": "Metodi e modelli quantitativi di supporto alle decisioni - MEMO",
+    "Costo ": "1.600€",
+    "Ateneo": "Unitelma"
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Scienze Politiche ",
+    "Corsi di laurea + (non lo so) ": "Strategie per l’inclusione e tutela del cittadino straniero - SICS",
+    "Costo ": "1.600€",
+    "Ateneo": "Unitelma"
+  },
+  {
+    "Tipologia": "Master 2° livello ",
+    "Area": "Scienze Politiche ",
+    "Corsi di laurea + (non lo so) ": "Il contrasto al terrorismo internazionale: radicalizzazione, cyberjihad, intelligence e comunicazione strategica",
+    "Costo ": "da 800 a 1200",
+    "Ateneo": "Unipegaso"
+  }
+]
