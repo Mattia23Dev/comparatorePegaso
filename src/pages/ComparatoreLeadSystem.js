@@ -143,6 +143,14 @@ const ComparatoreLeadSystem = () => {
             alert('Compila tutti i campi');
             setIsLoad(false);
             return
+        } else if (!isValidMobileNumber(phone)) {
+            alert('Inserisci un numero valido');
+            setIsLoad(false);
+            setPhone("");
+        } else if (!isValidEmail(email)){
+            alert('Inserisci una mail valida');
+            setIsLoad(false);
+            setEmail("");
         }
         try {
             handleSendLead();
@@ -176,6 +184,18 @@ const ComparatoreLeadSystem = () => {
         setUniquePrice(filteredBudgetNames);
         setBudget("");
       }, [subjectOfInterest]);
+
+      const isValidMobileNumber = (phoneNumber) => {
+        const mobileNumberRegex = /^[0-9]{10}$/;
+      
+        return mobileNumberRegex.test(phoneNumber);
+      };
+
+      const isValidEmail = (email) => {
+        const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+      
+        return emailRegex.test(email);
+      };
 
   return (
     <div className='comparatore'>
