@@ -161,8 +161,8 @@ const Risultati = () => {
 
   const handleSendSheet = async () => {
     setThanks(true);
-    const urlSheet = 'https://sheet.best/api/sheets/eaef7ae5-c150-4232-acea-ed55599ff0fd';
-    const checkUrl = `${urlSheet}?search=email:${email}`; 
+    const urlSheet = 'https://sheet.best/api/sheets/2b48a2f8-bc37-4c32-9927-390557b57bd2/tabs/2';
+    const checkUrl = `${urlSheet}/Email/${email}`; 
 
     const formData = {
       Data: new Date(),
@@ -184,6 +184,7 @@ const Risultati = () => {
 
     const checkResponse = await fetch(checkUrl, {
         method: 'GET',
+        mode: 'cors',
         headers: {
           'Content-Type': 'application/json',
         },

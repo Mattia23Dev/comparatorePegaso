@@ -51,8 +51,9 @@ const ComparatoreLeadSystem = () => {
       };
 
       const handleSendSheet = async () => {
-        const urlSheet = 'https://hooks.zapier.com/hooks/catch/5079718/3kiyzo9/';
-        const checkUrl = `${urlSheet}?search=email:${email}`; 
+        const sheetName = 'Lead 1 step Unipegaso (50 lead test CRM) ';
+        const urlSheet = 'https://sheet.best/api/sheets/2b48a2f8-bc37-4c32-9927-390557b57bd2/tabs/1';
+        const checkUrl = `${urlSheet}/email/${email}`; 
         const formData = {
           Data: new Date(),
           nome: firstName,
@@ -66,6 +67,7 @@ const ComparatoreLeadSystem = () => {
 
         const checkResponse = await fetch(checkUrl, {
             method: 'GET',
+            mode: "cors",
             headers: {
               'Content-Type': 'application/json',
             },
@@ -99,6 +101,7 @@ const ComparatoreLeadSystem = () => {
           })
           .catch((error) => {
             console.error("Errore:", error);
+            setIsLoad(false);
           });
       };
 
@@ -124,7 +127,7 @@ const ComparatoreLeadSystem = () => {
         try {
           const response = await axios.post('https://crm-api.multiversity.click/crm/public/request', formData);
           console.log('Risposta dal server:', response.data);
-          //await handleSendSheet();
+          await handleSendSheet();
           //navigate('/università/risultati');
         } catch (error) {
           console.error('Errore durante la richiesta al server:', error);
