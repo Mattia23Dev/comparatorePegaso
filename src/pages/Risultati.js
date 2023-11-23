@@ -249,6 +249,40 @@ const Risultati = () => {
 
   const ateneiPrioritari = ["Unipegaso", "Mercatorum", "San Raffaele"];
 
+  const [exit, setExit] = useState(false);
+  const [what, setWhat] = useState("");
+
+  useEffect(() => {
+    const handleBeforeUnload = (event) => {
+      const message = "Sei sicuro di voler lasciare la pagina?";
+      event.returnValue = message; // Standard per la maggior parte dei browser
+      return message; // Per Internet Explorer
+    };
+
+    const handlePopState = (event) => {
+      const message = "Sei sicuro di voler lasciare la pagina?";
+      event.returnValue = message; // Standard per la maggior parte dei browser
+      return message; // Per Internet Explorer
+    };
+
+    window.addEventListener('beforeunload', handleBeforeUnload);
+    window.addEventListener('popstate', handlePopState);
+
+    return () => {
+      window.removeEventListener('beforeunload', handleBeforeUnload);
+      window.removeEventListener('popstate', handlePopState);
+    };
+  }, []);
+
+  const handleExit = () => {
+    setExit(false);
+    if (what == "indietro"){
+      window.history.goBack();
+    } else {
+      window.close();
+    }
+  }
+
   return (
     <div className='risultati'>
       {load && (
@@ -297,6 +331,19 @@ const Risultati = () => {
             </div>          
           )}
 
+        </div>
+      )}
+      {exit && (
+        <div className='popup-shadows'>
+            <div className='popup-send'>
+              <p onClick={() => {setExit(false); setWhat("")} }><FaTimes /></p>
+              <h2>Sicuro di uscitre?</h2>
+              <h5>Potresti perdere tutti i dati.</h5>
+              <div style={{display: 'flex', flexDirection: 'row', justifyContent: 'space-around', alignItems: 'center', gap: '1rem'}}>
+                <button className='button-orientatore' onClick={() => handleExit()}>Esci</button>
+                <button className='button-orientatore' onClick={() => {setExit(false); setWhat("")}}>Annulla</button>
+              </div>
+            </div>         
         </div>
       )}
         <div className='comparatore-top not-sticky'>

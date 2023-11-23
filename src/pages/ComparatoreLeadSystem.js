@@ -136,7 +136,7 @@ const ComparatoreLeadSystem = () => {
         //navigate('/università/risultati');
       };
 
-      const handleSubmit = () => {
+      const handleSubmit = async () => {
         setIsLoad(true)
         if (firstName == "" || lastName == "" || email == "" || phone == "" || categories == "" || studyTime == "" || workStatus == ""
         || universityStatus == "" || enrollmentTime == "" || budget == "" || subjectOfInterest == "" || desiredDegree == "" || degreeType == "" || accept == false) {
@@ -147,13 +147,16 @@ const ComparatoreLeadSystem = () => {
             alert('Inserisci un numero valido');
             setIsLoad(false);
             setPhone("");
+            return
         } else if (!isValidEmail(email)){
             alert('Inserisci una mail valida');
             setIsLoad(false);
             setEmail("");
+            return
         }
         try {
-            handleSendLead();
+            //handleSendLead();
+            await handleSendSheet();
         } catch (error) {
            console.error(error); 
            setIsLoad(false)
